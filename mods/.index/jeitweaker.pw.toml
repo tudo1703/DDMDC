@@ -1,0 +1,18 @@
+filename = 'JEITweaker-1.16.5-1.1.0.49.jar'
+name = 'JEITweaker'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'JEITweaker-1.16.5-1.1.0.49.jar'
+
+[download]
+hash = '366436f84d5b3ea3f0037b9fdb7f5f6dbf7abd44'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3584024
+project-id = 368718

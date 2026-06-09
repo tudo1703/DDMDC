@@ -1,0 +1,21 @@
+filename = 'ensorcellation-1.16.5-1.5.0.4.jar'
+name = 'Ensorcellation'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ensorcellation-1.16.5-1.5.0.4.jar'
+
+[download]
+hash = '891dfa27a77418bbf319d653a0bc073ff4b86076'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3788886
+project-id = 349447
+
+[[x-prismlauncher-dependencies]]
+addonId = '69162'
+type = 'REQUIRED'

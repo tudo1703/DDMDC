@@ -1,0 +1,21 @@
+filename = 'ItemBorders-1.16.5-1.1.6.jar'
+name = 'Item Borders [Neo/Forge]'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ItemBorders-1.16.5-1.1.6.jar'
+
+[download]
+hash = '643b06a35e08bca8100fce180359427568233810'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3584996
+project-id = 513769
+
+[[x-prismlauncher-dependencies]]
+addonId = '520110'
+type = 'REQUIRED'

@@ -1,0 +1,21 @@
+filename = 'subwild-1.3.1.jar'
+name = 'Subterranean Wilderness'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'SubWild-1.16.5-1.3.1'
+
+[download]
+hash = '900ad4c421f081f7a9a0c3381ef1960f8f281916'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3536724
+project-id = 413426
+
+[[x-prismlauncher-dependencies]]
+addonId = '340583'
+type = 'OPTIONAL'

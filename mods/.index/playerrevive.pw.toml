@@ -1,0 +1,21 @@
+filename = 'PlayerRevive_v2.0.0-pre04_mc1.16.5.jar'
+name = 'PlayerRevive'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'PlayerRevive_v2.0.0-pre04_mc1.16.5.jar'
+
+[download]
+hash = 'dce68b51cc811e30b7b826ee41769864e4ecd5ca'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3419960
+project-id = 266890
+
+[[x-prismlauncher-dependencies]]
+addonId = '257814'
+type = 'REQUIRED'

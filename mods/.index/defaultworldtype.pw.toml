@@ -1,0 +1,18 @@
+filename = 'defaultworldtype-1.16.3-2.0.3.jar'
+name = 'Default World Type [Forge]'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'defaultworldtype-1.16.3-2.0.3.jar'
+
+[download]
+hash = '1aa78eeef87c2f563c519b04197a91d7cfbc8092'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3433766
+project-id = 373014

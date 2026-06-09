@@ -1,0 +1,18 @@
+filename = 'ShoulderSurfing-Forge-1.16.5-2.2.13.jar'
+name = 'Shoulder Surfing Reloaded'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.2', '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '[1.16.5|1.16.4|1.16.3|1.16.2] ShoulderSurfing-Forge-2.2.13'
+
+[download]
+hash = '7026f8faf7bc39ced0beeeac2cb02afb12d98dd7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3974165
+project-id = 243190

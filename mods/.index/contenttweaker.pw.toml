@@ -1,0 +1,25 @@
+filename = 'ContentTweaker-1.16-1.0.0.develop.36.jar'
+name = 'ContentTweaker'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ContentTweaker-1.16-1.0.0.develop.36.jar'
+
+[download]
+hash = '3f461d539b7c1bf537a0d9201d1d523ac70d8091'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3777234
+project-id = 237065
+
+[[x-prismlauncher-dependencies]]
+addonId = '239197'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '354339'
+type = 'OPTIONAL'

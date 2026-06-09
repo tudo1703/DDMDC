@@ -1,0 +1,18 @@
+filename = 'caelus-forge-1.16.5-2.1.3.2.jar'
+name = 'Caelus API'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'caelus-forge-1.16.5-2.1.3.2.jar'
+
+[download]
+hash = '034f5163304a9e3d931faa0a03cb55d9446480b9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3522094
+project-id = 308989

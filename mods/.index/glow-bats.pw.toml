@@ -1,0 +1,18 @@
+filename = 'GlowBats-1.16.5-1.0.2.jar'
+name = 'Glow Bats'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'GlowBats-1.16.5-1.0.2.jar'
+
+[download]
+hash = '89e833e5dd50215640f7da8f17ec58cbf89eca7d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3257122
+project-id = 451232

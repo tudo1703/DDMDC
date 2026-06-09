@@ -1,0 +1,450 @@
+[
+  {
+    "mob": ["iceandfire:dread_ghoul", "iceandfire:dread_beast", "iceandfire:dread_scuttler"],
+    "persecond": 8.0,
+    "attempts": 2,
+    "amount": {
+		"minimum": 1,
+		"maximum": 1
+    },
+    "conditions": {
+		"dimension": "minecraft:overworld",
+		"mindist": 35,
+		"maxdist": 100,
+		"minheight": 55,
+		"maxheight": 200,
+		"norestrictions": true,
+		"maxthis": 6
+    }
+  },
+  {
+    "mob": ["specialmobs:potionslime"],
+    "persecond": 8.0,
+    "attempts": 1,
+    "amount": {
+		"minimum": 1,
+		"maximum": 1
+    },
+    "conditions": {
+		"dimension": "minecraft:overworld",
+		"mindist": 35,
+		"maxdist": 100,
+		"minheight": 1,
+		"maxheight": 50,
+		"inlava": false,
+		"maxthis": 6
+    }
+  },
+  {
+    "mob": ["rotten_piglins:burning_zombie_piglin", "rotten_piglins:rotten_great_warrior"],
+    "persecond": 8.0,
+    "attempts": 3,
+    "amount": {
+		"minimum": 1,
+		"maximum": 1
+    },
+    "conditions": {
+		"dimension": "minecraft:overworld",
+		"mindist": 25,
+		"maxdist": 100,
+		"minheight": 1,
+		"maxheight": 200,
+		"norestrictions": true,
+		"inlava": false,
+		"maxthis": 6
+    }
+  },
+  {
+    "mob": ["rotten_piglins:burning_zombie_piglin"],
+    "persecond": 60.0,
+    "attempts": 2,
+    "amount": {
+		"minimum": 1,
+		"maximum": 1
+    },
+    "conditions": {
+		"dimension": "minecraft:the_nether",
+		"mindist": 25,
+		"maxdist": 100,
+		"minheight": 1,
+		"maxheight": 200,
+		"norestrictions": true,
+		"inlava": true,
+		"maxthis": 2
+    }
+  },
+  {
+    "mob": ["witherstormmod:sickened_skeleton", "witherstormmod:sickened_spider", "witherstormmod:sickened_zombie", "twist:ghoul", "rotten_piglins:rotten_great_warrior"],
+    "persecond": 8.0,
+    "attempts": 2,
+    "amount": {
+		"minimum": 1,
+		"maximum": 2
+    },
+    "conditions": {
+		"dimension": "minecraft:the_nether",
+		"mindist": 35,
+		"maxdist": 100,
+		"minheight": 1,
+		"maxheight": 200,
+		"norestrictions": true,
+		"maxthis": 6
+    }
+  },
+{
+    "mob": ["specialmobs:brutewitherskeleton", "specialmobs:gatlingwitherskeleton", "specialmobs:giantwitherskeleton", "specialmobs:knightwitherskeleton", "specialmobs:ninjawitherskeleton", "specialmobs:sniperwitherskeleton", "specialmobs:spitfirewitherskeleton", "specialmobs:witherskeleton"],
+    "persecond": 8.0,
+    "attempts": 2,
+    "amount": {
+		"minimum": 1,
+		"maximum": 3
+    },
+    "conditions": {
+		"dimension": "minecraft:the_nether",
+		"mindist": 35,
+		"maxdist": 100,
+		"minheight": 1,
+		"maxheight": 200,
+		"norestrictions": true,
+		"maxthis": 1
+    }
+  },
+{
+    "mob": ["twist:lanker"],
+    "persecond": 10.0,
+    "attempts": 1,
+    "amount": {
+		"minimum": 1,
+		"maximum": 1
+    },
+    "conditions": {
+		"dimension": "minecraft:the_nether",
+		"mindist": 35,
+		"maxdist": 100,
+		"minheight": 1,
+		"maxheight": 130,
+		"norestrictions": true,
+		"maxthis": 2
+    }
+  },
+  {
+    "mob": ["witherstormmod:sickened_skeleton", "witherstormmod:sickened_spider", "witherstormmod:sickened_zombie"],
+    "persecond": 8.0,
+    "attempts": 2,
+    "amount": {
+		"minimum": 1,
+		"maximum": 2
+    },
+    "conditions": {
+		"dimension": "minecraft:the_end",
+		"mindist": 35,
+		"maxdist": 100,
+		"minheight": 1,
+		"maxheight": 200,
+		"norestrictions": true,
+		"maxthis": 6
+    }
+  },
+{
+    "mob": ["witherstormmod:sickened_skeleton", "witherstormmod:sickened_spider", "witherstormmod:sickened_zombie"],
+    "persecond": 8.0,
+    "attempts": 2,
+    "amount": {
+		"minimum": 1,
+		"maximum": 2
+    },
+    "conditions": {
+		"dimension": "undergarden:undergarden",
+		"mindist": 35,
+		"maxdist": 100,
+		"minheight": 1,
+		"maxheight": 200,
+		"norestrictions": true,
+		"maxthis": 6
+    }
+  },
+  {
+    "mob": ["undergarden:forgotten_guardian"],
+    "persecond": 60.0,
+    "attempts": 1,
+    "amount": {
+		"minimum": 1,
+		"maximum": 1
+    },
+    "conditions": {
+		"dimension": "minecraft:the_end",
+		"mindist": 35,
+		"maxdist": 100,
+		"minheight": 1,
+		"maxheight": 200,
+		"norestrictions": true,
+		"maxthis": 2
+    }
+  },
+  {
+    "mob": ["undergarden:rotwalker", "undergarden:rotling"],
+    "persecond": 12.0,
+    "attempts": 1,
+    "amount": {
+		"minimum": 1,
+		"maximum": 1
+    },
+    "conditions": {
+		"dimension": "minecraft:overworld",
+		"mindist": 35,
+		"maxdist": 100,
+		"minheight": 1,
+		"maxheight": 60,
+		"norestrictions": true,
+		"maxthis": 4
+    }
+  },
+  {
+    "mob": ["dungeons_mobs:necromancer"],
+    "persecond": 120.0,
+    "attempts": 1,
+    "amount": {
+		"minimum": 1,
+		"maximum": 1
+    },
+    "conditions": {
+		"dimension": "minecraft:overworld",
+		"mindist": 35,
+		"maxdist": 100,
+		"minheight": 1,
+		"maxheight": 60,
+		"norestrictions": true,
+		"maxthis": 1
+    }
+  },
+  {
+    "mob": ["undergarden:rotbeast"],
+    "persecond": 120.0,
+    "attempts": 1,
+    "amount": {
+		"minimum": 1,
+		"maximum": 1
+    },
+    "conditions": {
+		"dimension": "minecraft:overworld",
+		"mindist": 35,
+		"maxdist": 100,
+		"minheight": 1,
+		"maxheight": 60,
+		"norestrictions": true,
+		"maxthis": 1
+    }
+  },
+  {
+    "mob": ["minecraft:phantom"],
+    "persecond": 10.0,
+    "attempts": 2,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+		"dimension": "minecraft:the_end",
+		"inair": true,
+		"mindist": 35,
+		"maxdist": 100,
+		"minheight": 15,
+		"maxheight": 200,
+		"norestrictions": true,
+		"maxthis": 8
+    }
+  },
+  {
+    "mob": ["glowbats:glow_bat"],
+    "persecond": 10.0,
+    "attempts": 2,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+		"dimension": "minecraft:the_end",
+		"inair": true,
+		"mindist": 25,
+		"maxdist": 100,
+		"minheight": 15,
+		"maxheight": 200,
+		"norestrictions": true,
+		"maxthis": 10
+    }
+  },
+  {
+    "mob": ["twist:charger"],
+    "persecond": 8.0,
+    "attempts": 2,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+		"dimension": "minecraft:the_nether",
+		"mindist": 35,
+		"maxdist": 100,
+		"minheight": 1,
+		"maxheight": 200,
+		"norestrictions": true,
+		"inlava": false,
+		"maxthis": 6
+    }
+  },
+  {
+    "mob": ["quark:wraith"],
+    "persecond": 8.0,
+    "attempts": 1,
+    "amount": {
+		"minimum": 1,
+		"maximum": 2
+    },
+    "conditions": {
+		"dimension": "minecraft:overworld",
+		"mindist": 25,
+		"maxdist": 100,
+		"minheight": 1,
+		"maxheight": 60,
+		"inlava": false,
+		"maxthis": 10
+    }
+  },
+{
+    "mob": ["undergarden:muncher", "undergarden:nargoyle"],
+    "persecond": 8.0,
+    "attempts": 1,
+    "amount": {
+		"minimum": 1,
+		"maximum": 2
+    },
+    "conditions": {
+		"dimension": "minecraft:overworld",
+		"mindist": 25,
+		"maxdist": 100,
+		"minheight": 1,
+		"maxheight": 60,
+		"inlava": false,
+		"maxthis": 6
+    }
+  },
+  {
+    "mob": ["pirates_armoury:frosted"],
+    "persecond": 8.0,
+    "attempts": 1,
+    "amount": {
+		"minimum": 1,
+		"maximum": 2
+    },
+    "conditions": {
+		"dimension": "minecraft:overworld",
+		"mindist": 25,
+		"maxdist": 100,
+		"minheight": 1,
+		"maxheight": 60,
+		"norestrictions": true,
+		"maxthis": 10
+    }
+  },
+  {
+    "mob": ["minecraft:guardian"],
+    "persecond": 8.0,
+    "attempts": 1,
+    "amount": {
+		"minimum": 1,
+		"maximum": 3
+    },
+    "conditions": {
+		"dimension": "minecraft:overworld",
+		"mindist": 25,
+		"maxdist": 100,
+		"minheight": 1,
+		"maxheight": 55,
+		"norestrictions": true,
+		"inwater": true,
+		"inlava": false,
+		"maxthis": 8
+    }
+  },
+  {
+    "mob": ["alexsmobs:bone_serpent"],
+    "persecond": 8.0,
+    "attempts": 3,
+    "amount": {
+		"minimum": 1,
+		"maximum": 1
+    },
+    "conditions": {
+		"dimension": "minecraft:overworld",
+		"mindist": 25,
+		"maxdist": 100,
+		"minheight": 1,
+		"maxheight": 200,
+		"norestrictions": true,
+		"inwater": false,
+		"inlava": true,
+		"maxthis": 8
+    }
+  },
+{
+    "mob": ["alexsmobs:bone_serpent"],
+    "persecond": 10.0,
+    "attempts": 1,
+    "amount": {
+		"minimum": 1,
+		"maximum": 1
+    },
+    "conditions": {
+		"dimension": "minecraft:the_nether",
+		"mindist": 25,
+		"maxdist": 100,
+		"minheight": 1,
+		"maxheight": 200,
+		"norestrictions": true,
+		"inwater": false,
+		"inlava": true,
+		"maxthis": 8
+    }
+  },
+  {
+    "mob": ["specialmobs:abyssaldrowned", "specialmobs:brutedrowned", "specialmobs:fishingdrowned", "specialmobs:frozendrowned", "specialmobs:giantdrowned", "specialmobs:hungrydrowned", "specialmobs:knightdrowned", "specialmobs:plaguedrowned", "dungeons_mobs:sunken_skeleton"],
+    "persecond": 8.0,
+    "attempts": 3,
+    "amount": {
+		"minimum": 2,
+		"maximum": 3
+    },
+    "conditions": {
+		"dimension": "minecraft:overworld",
+		"mindist": 25,
+		"maxdist": 100,
+		"minheight": 1,
+		"maxheight": 55,
+		"norestrictions": true,
+		"inwater": true,
+		"inlava": false,
+		"maxthis": 1
+    }
+  },
+  {
+    "mob": ["iceandfire:troll"],
+    "persecond": 30.0,
+    "attempts": 1,
+    "amount": {
+		"minimum": 1,
+		"maximum": 1
+    },
+    "conditions": {
+		"dimension": "minecraft:overworld",
+		"mindist": 35,
+		"maxdist": 100,
+		"minheight": 1,
+		"maxheight": 50,
+		"norestrictions": true,
+		"inliquid": false,
+		"inwater": false,
+		"inlava": false,
+		"maxthis": 4
+    }
+  }
+]

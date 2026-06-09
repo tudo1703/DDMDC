@@ -1,0 +1,18 @@
+filename = 'selene-1.16.5-1.9.0.jar'
+name = 'Moonlight Lib'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'selene-1.16.5-1.9.0.jar'
+
+[download]
+hash = 'bffec3d3ec6bc76858c1dc5d7624c564a7d437ce'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3517008
+project-id = 499980

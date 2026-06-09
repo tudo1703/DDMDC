@@ -1,0 +1,18 @@
+filename = 'effishiency-1.1.0.jar'
+name = 'Effishiency'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'effishiency-1.1.0.jar'
+
+[download]
+hash = '7a5bc282b81ae1bf85474082121fc369badc2fd4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3383437
+project-id = 495240

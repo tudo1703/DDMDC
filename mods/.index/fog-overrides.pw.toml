@@ -1,0 +1,18 @@
+filename = 'fogoverrides-1.16.5-1.1.0.jar'
+name = 'Fog Overrides'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'fogoverrides-1.16.5-1.1.0.jar'
+
+[download]
+hash = '8ae63d77bb8f69b0530a787b67d40d9e1c8d611f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3251619
+project-id = 398134

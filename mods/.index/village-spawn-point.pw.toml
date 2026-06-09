@@ -1,0 +1,21 @@
+filename = 'villagespawnpoint_1.16.5-1.8.jar'
+name = 'Village Spawn Point'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'villagespawnpoint_1.16.5-1.8.jar'
+
+[download]
+hash = '64ff79547c511673270fab9a4c3b06e2768903e5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3422785
+project-id = 347381
+
+[[x-prismlauncher-dependencies]]
+addonId = '342584'
+type = 'REQUIRED'

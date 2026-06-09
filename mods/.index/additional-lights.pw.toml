@@ -1,0 +1,18 @@
+filename = 'additional_lights-1.16.4-2.1.3.jar'
+name = 'Additional Lights'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Additional Lights 1.16.4-2.1.3'
+
+[download]
+hash = 'ef2aeb1ca1fb8fb68f32e5424b88d2bdcc53ff54'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3116438
+project-id = 384991

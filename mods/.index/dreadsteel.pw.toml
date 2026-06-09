@@ -1,0 +1,21 @@
+filename = 'dreadsteel-1.16.5-1.1.5.jar'
+name = 'Dreadsteel'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'dreadsteel-1.16.5-1.1.5.jar'
+
+[download]
+hash = '5594b65a4361323a61c0d1130a70dd086687279d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4505297
+project-id = 630764
+
+[[x-prismlauncher-dependencies]]
+addonId = '264231'
+type = 'OPTIONAL'

@@ -1,0 +1,21 @@
+filename = 'improvedmobs-1.16.5-1.10.13.jar'
+name = 'Improved Mobs (Forge, NeoForge)'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'improvedmobs-1.16.5-1.10.13.jar'
+
+[download]
+hash = '032177ed15b5b6a1b6fc177ac63248b86ddde661'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3819748
+project-id = 282639
+
+[[x-prismlauncher-dependencies]]
+addonId = '312040'
+type = 'REQUIRED'

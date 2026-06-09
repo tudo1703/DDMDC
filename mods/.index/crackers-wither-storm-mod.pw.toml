@@ -1,0 +1,18 @@
+filename = 'witherstormmod-1.16.5-1.0.3.jar'
+name = "Cracker's Wither Storm Mod"
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'witherstormmod-1.16.5-1.0.3.jar'
+
+[download]
+hash = '5f37be6eab6fe1463a6ef8547965e7d558c7e058'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4403153
+project-id = 621405

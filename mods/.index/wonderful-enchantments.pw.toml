@@ -1,0 +1,21 @@
+filename = 'wonderful-enchantments-1.16.4-1.3.5.jar'
+name = "Majrusz's Enchantments"
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'wonderful-enchantments-1.16.4-1.3.5'
+
+[download]
+hash = '049875fc329e4149c8ab1f5ad37ff9e1ac98c188'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3359621
+project-id = 417439
+
+[[x-prismlauncher-dependencies]]
+addonId = '437409'
+type = 'REQUIRED'

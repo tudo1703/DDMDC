@@ -1,0 +1,18 @@
+filename = 'dragonfight-1.8.jar'
+name = 'Savage Ender Dragon[Forge/Fabric]'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'dragonfight-1.8.jar'
+
+[download]
+hash = '76d5a02d3767ea3454d28b09b262cb1ef8e3d432'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3773602
+project-id = 523327

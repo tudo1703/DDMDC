@@ -1,0 +1,21 @@
+filename = 'DungeonCrawl-1.16.5-2.3.9.jar'
+name = 'Dungeon Crawl'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'mc1.16.5-2.3.9'
+
+[download]
+hash = '367deadacb70b6aab1884740d8fd896e5f969948'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3833867
+project-id = 324973
+
+[[x-prismlauncher-dependencies]]
+addonId = '399022'
+type = 'OPTIONAL'

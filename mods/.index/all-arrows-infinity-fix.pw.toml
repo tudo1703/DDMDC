@@ -1,0 +1,18 @@
+filename = 'AllArrowsInfinityFix-FORGE-1.3-mc1.16.jar'
+name = 'All Arrows Infinity Fix'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Forge 1.16.4/1.16.5] All Arrows Infinity Fix v1.3'
+
+[download]
+hash = '731ff3a57016ece3fb6f12fb63b7187c1f3e73fc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3865023
+project-id = 543652

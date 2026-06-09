@@ -1,0 +1,21 @@
+filename = 'CraftTweaker-1.16.5-7.1.2.511.jar'
+name = 'CraftTweaker'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'CraftTweaker-1.16.5-7.1.2.511.jar'
+
+[download]
+hash = '8e4e669e560da6cc109c539fe789469dc37ff3bb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3833806
+project-id = 239197
+
+[[x-prismlauncher-dependencies]]
+addonId = '368718'
+type = 'REQUIRED'

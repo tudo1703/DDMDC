@@ -1,0 +1,18 @@
+filename = 'TimeShallNotPass-1.16.5-1.2.jar'
+name = 'Time Shall Not Pass! (1.12.2 & 1.16.5)'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Time Shall Not Pass 1.16.5-1.2.0'
+
+[download]
+hash = 'ec5e7bbc75ea886e5dec819cf38eb07cdf667f21'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3621002
+project-id = 537843

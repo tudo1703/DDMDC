@@ -1,0 +1,19 @@
+
+[mobs]
+	blacklist = ["mowziesmobs:ferrous_wroughtnaut", "stalwart_dungeons:shelterer_without_armor", "stalwart_dungeons:nether_keeper", "stalwart_dungeons:awful_ghast", "cataclysm:netherite_monstrosity", "cataclysm:ender_guardian", "cataclysm:ignis", "mowziesmobs:barako", "minecraft:giant", "infernal_origins_extras:*", "alexsmobs:void_worm", "cataclysm:ender_golem", "ba_bt:land_golem", "tomes:tamed_spider", "tomes:spectral_steed", "dungeons_mobs:quick_growing_anemone", "dungeons_mobs:quick_growing_vine", "witherstormmod:withered_symbiont", "witherstormmod:wither_storm_head"]
+	whitelist = []
+	always_show_level = false
+	show_level_when_looking_at = false
+	exp_bonus_per_level = 0.5
+	hidden_levels = []
+
+[attributes]
+	attribute_bonuses = [["minecraft:generic.movement_speed", 0.0], ["minecraft:generic.flying_speed", 0.0], ["minecraft:generic.attack_damage", 0.05], ["minecraft:generic.armor", 0.0], ["minecraft:generic.max_health", 0.1], ["autoleveling:monster.projectile_damage_bonus", 0.05], ["autoleveling:monster.explosion_damage_bonus", 0.05]]
+
+[default_leveling_settings]
+	starting_level = 1
+	max_level = 30
+	levels_per_distance = 0.001
+	levels_per_deepness = 0.0
+	random_level_bonus = 30
+

@@ -1,0 +1,18 @@
+filename = 'responsiveshields-2.1-mc1.16.5.jar'
+name = 'Responsive Shields'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Responsive Shields 2.1 for Minecraft 1.16.5'
+
+[download]
+hash = '86262a14013396842568787ce5ddbc89f8f32aa2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3866536
+project-id = 557556

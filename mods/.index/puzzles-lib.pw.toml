@@ -1,0 +1,18 @@
+filename = 'PuzzlesLib-v1.0.15-1.16.5-Forge.jar'
+name = 'Puzzles Lib'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.2', '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'PuzzlesLib-v1.0.15-1.16.5-Forge.jar'
+
+[download]
+hash = '7094b4a86ce0d94ef1a7ea0935c6a9496564a17e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3517499
+project-id = 495476

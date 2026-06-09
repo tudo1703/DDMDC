@@ -1,0 +1,18 @@
+filename = 'OffHandCombat-1.16.3-3.2.1.3.jar'
+name = 'Off Hand Combat [Forge]'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'OffHandCombat-1.16.3-3.2.1.3.jar'
+
+[download]
+hash = 'b1e1290ed21c2ecd723ca71ba554e5baee84ded4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3806030
+project-id = 417112

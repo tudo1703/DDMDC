@@ -1,0 +1,18 @@
+filename = 'unbreakingfix-1.16.5-0.1.0.jar'
+name = 'Unbreaking Fix'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'unbreakingfix-1.16.5-0.1.0.jar'
+
+[download]
+hash = '23923f723392446eaa5c2d808918ea63ad7b2311'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3959116
+project-id = 666469

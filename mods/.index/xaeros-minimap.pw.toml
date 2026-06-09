@@ -1,0 +1,18 @@
+filename = 'Xaeros_Minimap_23.4.4_Forge_1.16.5.jar'
+name = "Xaero's Minimap"
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.2', '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v23.4.4 for Forge 1.16.5 - 1.16.2'
+
+[download]
+hash = 'ef1db69c5ad1275a48eb01d8afb2411f8bdf553f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4550308
+project-id = 263420

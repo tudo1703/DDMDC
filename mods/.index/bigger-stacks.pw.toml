@@ -1,0 +1,18 @@
+filename = 'biggerstacks-1.16-2.2.jar'
+name = 'Bigger Stacks'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'biggerstacks-1.16-2.2.jar'
+
+[download]
+hash = '8a2036b95b59482cd886c18edc37f7e36607e898'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3873474
+project-id = 564896

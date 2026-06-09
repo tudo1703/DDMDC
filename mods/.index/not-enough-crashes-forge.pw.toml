@@ -1,0 +1,18 @@
+filename = 'notenoughcrashes-4.1.4+1.16.5-forge.jar'
+name = 'Not Enough Crashes (Forge)'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Not Enough Crashes 4.1.4+1.16.5 Forge'
+
+[download]
+hash = '29320598177149b2236bd06269fe9b754f62a7a0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3606847
+project-id = 442354

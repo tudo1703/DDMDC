@@ -1,0 +1,18 @@
+filename = 'AutoRegLib-1.6-49.jar'
+name = 'AutoRegLib'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'AutoRegLib-1.6-49.jar'
+
+[download]
+hash = '921cf73b9d31bce5d332115a5144c3fca2010f93'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3326041
+project-id = 250363

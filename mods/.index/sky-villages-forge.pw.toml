@@ -1,0 +1,18 @@
+filename = 'SkyVillage_1.0.0_1.16.5.jar'
+name = 'Sky Villages [Forge]'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'SkyVillage 1.0.0 1.16.5'
+
+[download]
+hash = 'c9e0751cb1b0440b9d43adf4ed47379e4537371c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3519871
+project-id = 545467

@@ -1,0 +1,18 @@
+filename = 'infernal-origins-extras-v1.0.0-EXP1359.jar'
+name = 'Infernal Origins Extras'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Infernal Origins Extras v1.0.0 - EXP1359'
+
+[download]
+hash = 'd4b78b9c711e424c581ab18b163ffe0b1ebf99f8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5045186
+project-id = 936303

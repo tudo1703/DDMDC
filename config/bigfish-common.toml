@@ -1,0 +1,15 @@
+
+["Configs for Big Fish"]
+	#Anglerfish health boost amplifier (Default = 0)
+	"Anglerfish boost power" = 9
+	#Amount of time for health boost given by anglerfish in ticks (Default = 1800)
+	"Anglerfish boost time" = 1800
+	#Minimum hunger restored by cooked slimy eel (Default = 1)
+	"Min eel hunger" = 1
+	#Minimum saturation restored by cooked slimy eel (Default = 0.1)
+	"Min eel saturation" = 0.1
+	#Maximum hunger restored by cooked slimy eel (Default = 10)
+	"Max eel hunger" = 10
+	#Maximum saturation restored by cooked slimy eel (Default = 1.0)
+	"Max eel saturation" = 1.0
+

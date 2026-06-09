@@ -1,0 +1,174 @@
+[
+  {
+    "mob": ["iceandfire:dread_ghoul", "iceandfire:dread_beast", "iceandfire:dread_scuttler"],
+    "dimension": "minecraft:overworld",
+    "biome": ["twist:burntforest", "twist:charredwastes"],
+    "result": "default"
+  },
+  {
+    "mob": ["iceandfire:dread_ghoul", "iceandfire:dread_beast", "iceandfire:dread_scuttler"],
+    "dimension": "minecraft:overworld",
+    "incontrol": true,
+    "result": "deny"
+  },
+  {
+    "mob": ["quark:wraith", "undergarden:muncher", "undergarden:nargoyle", "undergarden:rotbeast", "undergarden:rotwalker", "undergarden:rotling", "dungeons_mobs:necromancer"],
+    "dimension": "minecraft:overworld",
+    "result": "default"
+  },
+  {
+    "mob": ["quark:wraith", "undergarden:muncher", "undergarden:nargoyle", "undergarden:rotbeast", "undergarden:rotwalker", "undergarden:rotling", "dungeons_mobs:necromancer"],
+    "dimension": "minecraft:overworld",
+    "incontrol": true,
+    "result": "deny"
+  },
+  {
+    "mob": ["witherstormmod:sickened_skeleton", "witherstormmod:sickened_spider", "witherstormmod:sickened_zombie", "twist:ghoul", "rotten_piglins:burning_zombie_piglin", "rotten_piglins:rotten_great_warrior"],
+    "dimension": "minecraft:the_nether",
+    "result": "default"
+  },
+  {
+    "mob": ["witherstormmod:sickened_skeleton", "witherstormmod:sickened_spider", "witherstormmod:sickened_zombie", "twist:ghoul", "rotten_piglins:burning_zombie_piglin", "rotten_piglins:rotten_great_warrior"],
+    "dimension": "minecraft:the_nether",
+    "incontrol": true,
+    "result": "deny"
+  },
+  {
+    "mob": ["witherstormmod:sickened_skeleton", "witherstormmod:sickened_spider", "witherstormmod:sickened_zombie", "undergarden:forgotten_guardian"],
+    "dimension": "minecraft:the_end",
+    "result": "default"
+  },
+  {
+    "mob": ["witherstormmod:sickened_skeleton", "witherstormmod:sickened_spider", "witherstormmod:sickened_zombie", "undergarden:forgotten_guardian"],
+    "dimension": "minecraft:the_end",
+    "incontrol": true,
+    "result": "deny"
+  },
+  {
+    "mob": ["witherstormmod:sickened_skeleton", "witherstormmod:sickened_spider", "witherstormmod:sickened_zombie", "undergarden:forgotten_guardian"],
+    "dimension": "undergarden:undergarden",
+    "result": "default"
+  },
+  {
+    "mob": ["witherstormmod:sickened_skeleton", "witherstormmod:sickened_spider", "witherstormmod:sickened_zombie", "undergarden:forgotten_guardian"],
+    "dimension": "undergarden:undergarden",
+    "incontrol": true,
+    "result": "deny"
+  },
+  {
+    "mob": ["specialmobs:brutewitherskeleton", "specialmobs:gatlingwitherskeleton", "specialmobs:giantwitherskeleton", "specialmobs:knightwitherskeleton", "specialmobs:ninjawitherskeleton", "specialmobs:sniperwitherskeleton", "specialmobs:spitfirewitherskeleton", "specialmobs:witherskeleton"],
+    "dimension": "minecraft:the_nether",
+    "result": "default"
+  },
+  {
+    "mob": ["specialmobs:brutewitherskeleton", "specialmobs:gatlingwitherskeleton", "specialmobs:giantwitherskeleton", "specialmobs:knightwitherskeleton", "specialmobs:ninjawitherskeleton", "specialmobs:sniperwitherskeleton", "specialmobs:spitfirewitherskeleton", "specialmobs:witherskeleton"],
+    "dimension": "minecraft:the_nether",
+    "incontrol": true,
+    "result": "deny"
+  },
+  {
+    "mob": ["rotten_piglins:burning_zombie_piglin", "rotten_piglins:rotten_great_warrior"],
+    "dimension": "minecraft:overworld",
+    "biome": ["twist:volcano"],
+    "result": "default"
+  },
+  {
+    "mob": ["rotten_piglins:burning_zombie_piglin", "rotten_piglins:rotten_great_warrior"],
+    "dimension": "minecraft:overworld",
+    "incontrol": true,
+    "result": "deny"
+  },
+  {
+    "mob": ["pirates_armoury:frosted"],
+    "dimension": "minecraft:overworld",
+    "biome": ["byg:lush_tundra", "minecraft:snowy_tundra", "minecraft:snowy_mountains", "minecraft:snowy_taiga", "minecraft:snowy_taiga_hills", "minecraft:snowy_taiga_mountains", "minecraft:snowy_tundra", "byg:frozen_lake", "byg:snowy_blue_giant_taiga", "byg:snowy_blue_taiga", "byg:snowy_blue_taiga_hills", "byg:snowy_coniferous_clearing", "byg:snowy_coniferous_forest", "byg:snowy_coniferous_forest_hills", "byg:snowy_coniferous_clearing", "byg:snowy_coniferous_forest", "byg:snowy_coniferous_forest_hills", "byg:snowy_coniferous_clearing", "byg:snowy_evergreen_hills", "byg:snowy_evergreen_taiga", "byg:snowy_rocky_black_beach"],
+    "result": "default"
+  },
+  {
+    "mob": ["pirates_armoury:frosted"],
+    "dimension": "minecraft:overworld",
+    "result": "deny"
+  },
+  {
+    "mob": ["twist:howl"],
+    "dimension": "minecraft:overworld",
+    "biome": "twist:burntforest",
+    "result": "deny"
+  },
+  {
+    "mob": ["twist:howl"],
+    "dimension": "minecraft:overworld",
+    "result": "deny"
+  },
+  {
+    "mob": ["twist:peblings"],
+    "dimension": "minecraft:overworld",
+    "biome": "twist:volcano",
+    "result": "deny"
+  },
+  {
+    "mob": ["twist:peblings"],
+    "dimension": "minecraft:overworld",
+    "result": "deny"
+  },
+  {
+    "mob": ["minecraft:phantom", "glowbats:glow_bat"],
+    "dimension": "minecraft:the_end",
+    "result": "default"
+  },
+  {
+    "mob": ["minecraft:phantom", "glowbats:glow_bat"],
+    "dimension": "minecraft:the_end",
+    "incontrol": true,
+    "result": "deny"
+  },
+  {
+    "mob": ["twist:charger"],
+    "dimension": "minecraft:the_nether",
+	"biome": ["byg:warped_desert", "minecraft:warped_forest"],
+	"potion": "minecraft:fire_resistance,99999,1",
+    "result": "default"
+  },
+  {
+    "mob": ["twist:charger"],
+    "dimension": "minecraft:the_nether",
+    "incontrol": true,
+    "result": "deny"
+  },
+  {
+    "mob": ["alexsmobs:crocodile"],
+    "dimension": ["minecraft:overworld"],
+    "result": "allow"
+  },
+  {
+    "mob": ["alexsmobs:crocodile"],
+    "dimension": ["minecraft:the_nether", "minecraft:the_end"],
+    "result": "deny"
+  },
+  {
+    "mob": ["minecraft:guardian", "specialmobs:abyssaldrowned", "specialmobs:brutedrowned", "specialmobs:fishingdrowned", "specialmobs:frozendrowned", "specialmobs:giantdrowned", "specialmobs:hungrydrowned", "specialmobs:knightdrowned", "specialmobs:plaguedrowned", "dungeons_mobs:sunken_skeleton"],
+    "dimension": ["minecraft:overworld", "minecraft:the_end"],
+    "result": "default"
+  },
+  {
+    "mob": ["minecraft:guardian", "specialmobs:abyssaldrowned", "specialmobs:brutedrowned", "specialmobs:fishingdrowned", "specialmobs:frozendrowned", "specialmobs:giantdrowned", "specialmobs:hungrydrowned", "specialmobs:knightdrowned", "specialmobs:plaguedrowned", "dungeons_mobs:sunken_skeleton"],
+    "dimension": ["minecraft:the_nether"],
+    "result": "deny"
+  },
+  {
+    "mob": ["alexsmobs:bone_serpent"],
+    "dimension": ["minecraft:overworld"],
+    "result": "allow"
+  },
+{
+    "mob": ["alexsmobs:bone_serpent"],
+    "dimension": ["minecraft:the_nether"],
+    "result": "allow"
+  },
+  {
+    "mob": ["iceandfire:troll", "specialmobs:potionslime"],
+    "dimension": "minecraft:overworld",
+    "biome": ["byg:rocky_beach", "byg:rainbow_beach", "byg:stone_shore", "byg:white_beach", "minecraft:snowy_beach", "minecraft:beach", "byg:dead_sea", "byg:great_lake", "byg:frozen_lake", "byg:fresh_water_lake", "byg:polluted_lake", "minecraft:mushroom_field_shore", "minecraft:stone_shore", "minecraft:river", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:deep_frozen_ocean", "minecraft:deep_lukewarm_ocean", "minecraft:deep_warm_ocean", "minecraft:frozen_ocean", "minecraft:lukewarm_ocean", "minecraft:warm_ocean"],
+    "result": "deny"
+  }
+]

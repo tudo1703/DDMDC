@@ -1,0 +1,18 @@
+filename = 'performant-1.16.2-5-4.0m.jar'
+name = 'Performant'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.2', '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'performant-1.16.2-5-4.0m.jar'
+
+[download]
+hash = 'b0f268c0657a0e8b8caf5074b950e4256e1177db'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4408561
+project-id = 354143

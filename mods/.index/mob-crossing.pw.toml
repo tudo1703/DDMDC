@@ -1,0 +1,18 @@
+filename = 'MobCrossing-1.16.2-1.0.0.0.jar'
+name = 'Mob Crossing'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.2', '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'MobCrossing-1.16.2-1.0.0.0.jar'
+
+[download]
+hash = '40c0551ee20b5a746a8f662d6eb9935a5acee3ac'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3642815
+project-id = 577903

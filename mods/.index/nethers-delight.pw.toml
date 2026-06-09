@@ -1,0 +1,25 @@
+filename = 'nethers_delight-2.1.jar'
+name = "Nether's Delight"
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "Nether's Delight 2.1"
+
+[download]
+hash = '9b5ead14eddc6f1314231b709d747e450ffe2717'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3443481
+project-id = 496394
+
+[[x-prismlauncher-dependencies]]
+addonId = '382216'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '398521'
+type = 'REQUIRED'

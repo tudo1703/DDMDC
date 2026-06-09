@@ -1,0 +1,18 @@
+filename = 'FriendlyFire-1.16.5-7.0.2.jar'
+name = 'Friendly Fire'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'FriendlyFire-1.16.5-7.0.2.jar'
+
+[download]
+hash = 'c2f84f5e8ed84b58f4bd6a2b9039e3280f319b4f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3232429
+project-id = 255105

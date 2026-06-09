@@ -1,0 +1,18 @@
+filename = 'Prism-1.16.5-1.0.1.jar'
+name = 'Prism [Neo/Forge]'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Prism-1.16.5-1.0.1.jar'
+
+[download]
+hash = 'd65feb775bd5e5366a884d8d54e5f4bd6c3efe17'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3933561
+project-id = 638111

@@ -1,0 +1,21 @@
+filename = 'oculus-1.4.5.jar'
+name = 'Oculus'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Oculus mc1.16.5-1.4.5'
+
+[download]
+hash = 'c5410c49fc90146c535314da0525f0393e286cab'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4300427
+project-id = 581495
+
+[[x-prismlauncher-dependencies]]
+addonId = '574856'
+type = 'REQUIRED'

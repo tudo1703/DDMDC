@@ -1,0 +1,72 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 151
+  width = 338
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = 0a734745-2c26-4d9d-9a8e-e28e8e929d381675601353603
+  y = 127
+  height = 84
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 10
+  width = 300
+  action = deep_customization_element:drippy_overlay_forge_memory
+  actionid = 920ef150-0b9b-496c-83f0-564bc1eefc721675601353603
+  y = 10
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 10
+  width = 300
+  action = deep_customization_element:drippy_overlay_forge_log
+  actionid = 22f21ec6-51ae-4035-a402-6cb0e965fce91675601353603
+  y = 289
+  height = 50
+}
+
+customization {
+  custom_color_hex = #0F0F0F
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = 0d6ef476-f544-4f0d-97b6-fbf057f766cd1675601353603
+  y = -1000000
+  height = 0
+}
+
+customization {
+  custom_color_hex = #FF8300
+  orientation = top-left
+  hidden = false
+  x = 151
+  width = 338
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = a4f79e54-c6ee-4a88-b809-545a4019f22b1675601353603
+  y = 277
+  height = 10
+}
+

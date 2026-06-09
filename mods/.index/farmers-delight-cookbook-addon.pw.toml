@@ -1,0 +1,25 @@
+filename = 'fd_cookbook-2.0.jar'
+name = "Farmer's Delight Cookbook Addon [0.4 is the last update]"
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'fd_cookbook-2.0.jar'
+
+[download]
+hash = '2b24900e77d765e4fe7c2da64168b1675a0e93c8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3309192
+project-id = 451839
+
+[[x-prismlauncher-dependencies]]
+addonId = '398521'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306770'
+type = 'REQUIRED'

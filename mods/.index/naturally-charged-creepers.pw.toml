@@ -1,0 +1,21 @@
+filename = 'naturallychargedcreepers_1.16.5-1.7.jar'
+name = 'Naturally Charged Creepers'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'naturallychargedcreepers_1.16.5-1.7.jar'
+
+[download]
+hash = '6a99e51b6c983a80f15459bdad5b875f6a8ffded'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3415351
+project-id = 324586
+
+[[x-prismlauncher-dependencies]]
+addonId = '342584'
+type = 'REQUIRED'

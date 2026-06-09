@@ -1,0 +1,18 @@
+filename = 'modernfix-mc1.16.5-1.10.0.jar'
+name = 'ModernFix'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'modernfix-mc1.16.5-1.10.0.jar'
+
+[download]
+hash = 'a0af113ca9309a90b6204ba55d8149dff4a88d6b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4432428
+project-id = 790626

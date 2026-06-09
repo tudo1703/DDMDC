@@ -1,0 +1,18 @@
+filename = 'FastProjectileFix-forge-1.16.5-1.0.1.jar'
+name = 'Fast Projectile Fix'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'FastProjectileFix-forge-1.16.5-1.0.1.jar'
+
+[download]
+hash = '6ea00f03340d0dc9b7bf046a8e69fae851907bf6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4075324
+project-id = 699599

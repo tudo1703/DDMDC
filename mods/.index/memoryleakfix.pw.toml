@@ -1,0 +1,18 @@
+filename = 'memoryleakfix-forge-pre1.17-1.0.0.jar'
+name = 'MemoryLeakFix'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.15.2', '1.16', '1.16.1', '1.16.2', '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'MemoryLeakFix 1.0.0 [forge,1.15.2-1.16.5]'
+
+[download]
+hash = 'a18ea3b931126ea3a26cccc7d1b3b6e39f1af443'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4465267
+project-id = 627566

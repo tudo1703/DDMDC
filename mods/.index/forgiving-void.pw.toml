@@ -1,0 +1,18 @@
+filename = 'ForgivingVoid_1.16.5-5.2.1.jar'
+name = 'Forgiving Void'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ForgivingVoid_1.16.5-5.2.1.jar'
+
+[download]
+hash = 'b3b7db20ce9d025abe1d5cbac0761ca0b0e398fe'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3330716
+project-id = 271009

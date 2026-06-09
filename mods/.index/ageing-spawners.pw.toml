@@ -1,0 +1,18 @@
+filename = 'AgeingSpawners-1.16.5-1.1.0.jar'
+name = 'Ageing Spawners'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'AgeingSpawners-1.16.5-1.1.0.jar'
+
+[download]
+hash = 'fc62f00b8b136268bf9a8a9685af9862abc5bb6d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3290845
+project-id = 382979

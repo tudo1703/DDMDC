@@ -1,0 +1,120 @@
+
+[General]
+	#Range: 0.0 ~ 100.0
+	"explosion radius" = 4.0
+
+["Affects ALL Creepers"]
+	#Range: 0 ~ 500
+	"weight multiplier" = 1
+
+["Spawn Chances"]
+
+	#Configure Mob spawn weight & min/max group size. Set weight to 0 to disable.
+	["Spawn Chances"."Coal Creeper"]
+		#Range: 0 ~ 64
+		min = 1
+		#Range: 0 ~ 64
+		max = 2
+		#Range: 0 ~ 500
+		weight = 100
+		#Range: 0.0 ~ 100.0
+		"explosion radius" = 3.75
+		#Range: -64 ~ 320
+		"max spawn Y level" = 320
+
+	["Spawn Chances"."Diamond Creeper"]
+		#Range: 0 ~ 64
+		min = 1
+		#Range: 0 ~ 64
+		max = 2
+		#Range: 0 ~ 500
+		weight = 20
+		#Range: 0.0 ~ 100.0
+		"explosion radius" = 3.75
+		#Range: -64 ~ 320
+		"max spawn Y level" = 320
+
+	["Spawn Chances"."Emerald Creeper"]
+		#Range: 0 ~ 64
+		min = 1
+		#Range: 0 ~ 64
+		max = 2
+		#Range: 0 ~ 500
+		weight = 20
+		#Range: 0.0 ~ 100.0
+		"explosion radius" = 3.75
+		#Range: -64 ~ 320
+		"max spawn Y level" = 320
+
+	["Spawn Chances"."Gold Creeper"]
+		#Range: 0 ~ 64
+		min = 1
+		#Range: 0 ~ 64
+		max = 2
+		#Range: 0 ~ 500
+		weight = 60
+		#Range: 0.0 ~ 100.0
+		"explosion radius" = 3.75
+		#Range: -64 ~ 320
+		"max spawn Y level" = 320
+
+	["Spawn Chances"."Iron Creeper"]
+		#Range: 0 ~ 64
+		min = 1
+		#Range: 0 ~ 64
+		max = 2
+		#Range: 0 ~ 500
+		weight = 80
+		#Range: 0.0 ~ 100.0
+		"explosion radius" = 3.75
+		#Range: -64 ~ 320
+		"max spawn Y level" = 320
+
+	["Spawn Chances"."Lapis Lazuli Creeper"]
+		#Range: 0 ~ 64
+		min = 1
+		#Range: 0 ~ 64
+		max = 2
+		#Range: 0 ~ 500
+		weight = 50
+		#Range: 0.0 ~ 100.0
+		"explosion radius" = 3.75
+		#Range: -64 ~ 320
+		"max spawn Y level" = 320
+
+	["Spawn Chances"."Nether Gold Creeper"]
+		#Range: 0 ~ 64
+		min = 1
+		#Range: 0 ~ 64
+		max = 2
+		#Range: 0 ~ 500
+		weight = 20
+		#Range: 0.0 ~ 100.0
+		"explosion radius" = 3.75
+		#Range: -64 ~ 320
+		"max spawn Y level" = 320
+
+	["Spawn Chances"."Nether Quartz Creeper"]
+		#Range: 0 ~ 64
+		min = 1
+		#Range: 0 ~ 64
+		max = 2
+		#Range: 0 ~ 500
+		weight = 20
+		#Range: 0.0 ~ 100.0
+		"explosion radius" = 3.75
+		#Range: -64 ~ 320
+		"max spawn Y level" = 320
+
+	["Spawn Chances"."Redstone Creeper"]
+		#Range: 0 ~ 64
+		min = 1
+		#Range: 0 ~ 64
+		max = 2
+		#Range: 0 ~ 500
+		weight = 40
+		#Range: 0.0 ~ 100.0
+		"explosion radius" = 3.75
+		#Range: -64 ~ 320
+		"max spawn Y level" = 320
+

@@ -1,0 +1,18 @@
+filename = 'stalwart-dungeons-1.16.5-1.1.7.jar'
+name = 'Stalwart Dungeons'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'stalwart-dungeons-1.16.5-1.1.7.jar'
+
+[download]
+hash = 'c3ce008a2553668df996d1dde8fcfdc314a3f798'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3495397
+project-id = 474817

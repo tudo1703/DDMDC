@@ -1,0 +1,21 @@
+filename = 'alexsmobs-1.12.1.jar'
+name = "Alex's Mobs"
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'alexsmobs-1.12.1'
+
+[download]
+hash = '87411ae04536cc1a9cb731df12462ad58b39de51'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3467280
+project-id = 426558
+
+[[x-prismlauncher-dependencies]]
+addonId = '331936'
+type = 'REQUIRED'

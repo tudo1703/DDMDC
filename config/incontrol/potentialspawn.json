@@ -1,0 +1,13 @@
+[
+	{
+	"dimension": 0,
+	"mob":	[
+			{
+			"mob": "minecraft:blaze",
+			"weight": 5,
+			"groupcountmin": 1,
+			"groupcountmax": 2
+			}
+		]
+	}
+]

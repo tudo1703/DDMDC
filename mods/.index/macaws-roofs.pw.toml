@@ -1,0 +1,41 @@
+filename = 'mcw-roofs-2.1.2-mc1.16.5.jar'
+name = "Macaw's Roofs"
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v2.1.2 / mc1.16.5 - Forge'
+
+[download]
+hash = '74957625dc40082dcc23f0f217cae2417f6babad'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3760189
+project-id = 352039
+
+[[x-prismlauncher-dependencies]]
+addonId = '351725'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '378646'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '400933'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '363569'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '438116'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '359540'
+type = 'OPTIONAL'

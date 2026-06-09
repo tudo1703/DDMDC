@@ -1,0 +1,18 @@
+filename = 'NEG-1.16.5-r1.4.jar'
+name = 'Not Enough Gamerules [Forge]'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'NEG-1.16.5-r1.4'
+
+[download]
+hash = '8286c5711a36197a3f612f8214f33a5437b1d885'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3718142
+project-id = 432059

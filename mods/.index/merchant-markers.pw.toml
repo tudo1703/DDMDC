@@ -1,0 +1,29 @@
+filename = 'MerchantMarkers-1.16.5-1.1.1.jar'
+name = 'Merchant Markers [Neo/Forge]'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'MerchantMarkers-1.16.5-1.1.1.jar'
+
+[download]
+hash = '450e79814640c283968737f13658fa387c9f8be8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3546049
+project-id = 549275
+
+[[x-prismlauncher-dependencies]]
+addonId = '314906'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '263420'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '520110'
+type = 'REQUIRED'

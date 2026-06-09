@@ -1,0 +1,21 @@
+filename = 'AngryMobs-1.16.5-1.1.jar'
+name = 'Angry Mobs'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'AngryMobs-1.16.5-1.1.jar'
+
+[download]
+hash = 'c32e92b5d021c3bb33f8c557054596c645560ef4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3253993
+project-id = 430225
+
+[[x-prismlauncher-dependencies]]
+addonId = '239197'
+type = 'OPTIONAL'

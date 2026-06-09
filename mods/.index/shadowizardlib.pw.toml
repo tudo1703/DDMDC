@@ -1,0 +1,18 @@
+filename = 'shadowizardlib-1.16.5-1.1.0.jar'
+name = 'ShadowizardLib'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'shadowizardlib-1.16.5-1.1.0.jar'
+
+[download]
+hash = '69dfd7ebfcd701a6c7f1bd696312da749424ed01'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4995237
+project-id = 887125

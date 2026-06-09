@@ -1,0 +1,21 @@
+filename = 'runicitems-1.16.5-1.0.6.jar'
+name = 'Runic Items'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'runicitems-1.16.5-1.0.6.jar'
+
+[download]
+hash = 'e2cbab1488505bb657f87551fe604e0bc374fc72'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4648513
+project-id = 888355
+
+[[x-prismlauncher-dependencies]]
+addonId = '887125'
+type = 'REQUIRED'

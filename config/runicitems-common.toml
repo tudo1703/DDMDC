@@ -1,0 +1,25 @@
+
+["Configs for Runic Items"]
+	#Chance of finding Archer Boots in a buried treasure (Default = 0.2 = 20%)
+	"Archer Boots Chance" = 0.0
+	#Chance of getting Fighter Boots as a drop from a Ravager (Default = 0.25 = 25%)
+	"Fighter Boots Chance" = 0.0
+	#Should the Cleric Villager be able to trade you Wizard Boots? (Default = true)
+	"Wizard Boots Trade" = false
+	#Bonus Damage given by Archer Boots (Default = 3)
+	"Archer Boots Bonus" = 5
+	#Bonus Damage given by Fighter Boots (Default = 3)
+	"Fighter Boots Bonus" = 5
+	#Bonus Damage given by Wizard Boots (Default = 3)
+	"Wizard Boots Bonus" = 5
+	#Chance of getting the Secrets of Life and Death as a drop from an Evoker instead of a Totem of Undying (Default = 0.1 = 10%)
+	"Tablet Chance" = 0.0
+	#Chance of a Wither Skeleton to spawn holding a Mallet (Default = 0.15 = 15%)
+	"Mallet Chance" = 0.0
+	#Bonus Damage given by Eagle Boots (Default = 6)
+	"Eagle Boots Bonus" = 10
+	#Bonus Damage given by Warrior Boots (Default = 6)
+	"Warrior Boots Bonus" = 10
+	#Bonus Damage given by Sorcerer Boots (Default = 6)
+	"Sorcerer Boots Bonus" = 10
+

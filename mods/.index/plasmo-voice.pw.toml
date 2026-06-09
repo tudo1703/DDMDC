@@ -1,0 +1,21 @@
+filename = 'plasmovoice-forge-1.16-1.2.19.jar'
+name = 'Plasmo Voice'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '[Forge 1.16] Plasmo Voice 1.2.19'
+
+[download]
+hash = '2f5fc47d6ceb90d2ea6f4a9a7232c1c0e8ab2641'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3903836
+project-id = 467028
+
+[[x-prismlauncher-dependencies]]
+addonId = '535489'
+type = 'OPTIONAL'

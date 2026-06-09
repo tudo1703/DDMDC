@@ -1,0 +1,21 @@
+filename = 'firespreadtweaks_1.16.5-1.2.jar'
+name = 'Fire Spread Tweaks'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'firespreadtweaks_1.16.5-1.2.jar'
+
+[download]
+hash = '37a20d512cdb773a4de0134d885438cac8eaef03'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3379847
+project-id = 446366
+
+[[x-prismlauncher-dependencies]]
+addonId = '342584'
+type = 'REQUIRED'

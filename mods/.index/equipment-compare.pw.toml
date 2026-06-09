@@ -1,0 +1,33 @@
+filename = 'EquipmentCompare-1.16.5-1.3.2.jar'
+name = 'Equipment Compare [Neo/Forge]'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'EquipmentCompare-1.16.5-1.3.2.jar'
+
+[download]
+hash = '1a117f699880b4d9fc7b82ef1100b9218b35e359'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3943142
+project-id = 502561
+
+[[x-prismlauncher-dependencies]]
+addonId = '366844'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '532127'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '520110'
+type = 'REQUIRED'

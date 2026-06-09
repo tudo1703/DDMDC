@@ -1,0 +1,18 @@
+filename = 'konkrete_forge_1.6.0_MC_1.16.2-1.16.5.jar'
+name = 'Konkrete'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.2', '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Forge] v1.6.0 MC 1.16.2-1.16.5'
+
+[download]
+hash = '4b0a3a8ba5b89596d8cb411a06c7fd0afeb9f975'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4136425
+project-id = 410295

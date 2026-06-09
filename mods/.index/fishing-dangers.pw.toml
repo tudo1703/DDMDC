@@ -1,0 +1,18 @@
+filename = 'fishingdangers-1.16.5-1.2.jar'
+name = 'Fishing Dangers'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Fishing Dangers 1.2'
+
+[download]
+hash = '59d4c7a51ed7bf4bf1ceb1979e0cd2b280328797'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3770636
+project-id = 573952

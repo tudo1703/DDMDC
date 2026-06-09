@@ -1,0 +1,21 @@
+filename = 'strayspawn_1.16.5-1.4.jar'
+name = 'Stray Spawn'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'strayspawn_1.16.5-1.4.jar'
+
+[download]
+hash = 'a91778f670d4e1b5b60eaca4ed1d81dd60249d46'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3379761
+project-id = 348172
+
+[[x-prismlauncher-dependencies]]
+addonId = '342584'
+type = 'REQUIRED'

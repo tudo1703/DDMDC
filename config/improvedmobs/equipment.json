@@ -1,0 +1,1504 @@
+{
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "The first number is the weight while the second number is the quality",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": {
+    "ba_bt:platinum_sword": [
+      1,
+      1.0
+    ],
+    "betterendforge:aeternium_axe": [
+      1,
+      1.0
+    ],
+    "betterendforge:aeternium_sword": [
+      1,
+      1.0
+    ],
+    "betterendforge:terminite_sword": [
+      1,
+      1.0
+    ],
+    "betterendforge:thallasium_sword": [
+      1,
+      1.0
+    ],
+    "blades_plus:diamond_great_blade": [
+      1,
+      1.0
+    ],
+    "blades_plus:golden_great_blade": [
+      1,
+      1.0
+    ],
+    "blades_plus:iron_great_blade": [
+      1,
+      1.0
+    ],
+    "blades_plus:netherite_great_blade": [
+      1,
+      1.0
+    ],
+    "blades_plus:stone_great_blade": [
+      1,
+      1.0
+    ],
+    "blades_plus:wooden_great_blade": [
+      1,
+      1.0
+    ],
+    "byg:pendorite_axe": [
+      1,
+      1.0
+    ],
+    "byg:pendorite_battleaxe": [
+      1,
+      1.0
+    ],
+    "byg:pendorite_sword": [
+      1,
+      1.0
+    ],
+    "cataclysm:gauntlet_of_guard": [
+      1,
+      1.0
+    ],
+    "cataclysm:infernal_forge": [
+      1,
+      1.0
+    ],
+    "cataclysm:zweiender": [
+      1,
+      1.0
+    ],
+    "endrem:end_crystal_axe": [
+      1,
+      1.0
+    ],
+    "endrem:end_crystal_sword": [
+      1,
+      1.0
+    ],
+    "fabledweaponry:dagger_diamond": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:dagger_gold": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:dagger_iron": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:dagger_netherite": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:dagger_stone": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:dagger_wood": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:greatsword_diamond": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:greatsword_gold": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:greatsword_iron": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:greatsword_netherite": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:greatsword_stone": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:greatsword_wood": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:longbow": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:longbow_diamond": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:longbow_gold": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:longbow_iron": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:longbow_leather": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:longbow_netherite": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:mace_diamond": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:mace_gold": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:mace_iron": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:mace_netherite": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:mace_stone": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:mace_wood": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:maul_diamond": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:maul_gold": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:maul_iron": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:maul_netherite": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:maul_stone": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:maul_wood": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:scimitar_diamond": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:scimitar_gold": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:scimitar_iron": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:scimitar_netherite": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:scimitar_stone": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:scimitar_wood": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:scythe_diamond": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:scythe_gold": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:scythe_iron": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:scythe_netherite": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:scythe_stone": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:scythe_wood": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:waraxe_diamond": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:waraxe_gold": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:waraxe_iron": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:waraxe_netherite": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:waraxe_stone": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:waraxe_wood": [
+      2,
+      1.0
+    ],
+    "iceandfire:amphithere_macuahuitl": [
+      1,
+      1.0
+    ],
+    "iceandfire:copper_axe": [
+      1,
+      1.0
+    ],
+    "iceandfire:copper_sword": [
+      1,
+      1.0
+    ],
+    "iceandfire:dragonbone_axe": [
+      1,
+      1.0
+    ],
+    "iceandfire:dragonbone_bow": [
+      1,
+      1.0
+    ],
+    "iceandfire:dragonbone_sword": [
+      1,
+      1.0
+    ],
+    "iceandfire:dragonbone_sword_fire": [
+      1,
+      1.0
+    ],
+    "iceandfire:dragonbone_sword_ice": [
+      1,
+      1.0
+    ],
+    "iceandfire:dragonbone_sword_lightning": [
+      1,
+      1.0
+    ],
+    "iceandfire:dread_knight_sword": [
+      1,
+      1.0
+    ],
+    "iceandfire:dread_queen_sword": [
+      1,
+      1.0
+    ],
+    "iceandfire:dread_sword": [
+      1,
+      1.0
+    ],
+    "iceandfire:hippocampus_slapper": [
+      1,
+      1.0
+    ],
+    "iceandfire:hippogryph_sword": [
+      1,
+      1.0
+    ],
+    "iceandfire:silver_axe": [
+      1,
+      1.0
+    ],
+    "iceandfire:silver_sword": [
+      1,
+      1.0
+    ],
+    "iceandfire:stymphalian_bird_dagger": [
+      1,
+      1.0
+    ],
+    "iceandfire:troll_weapon_axe": [
+      1,
+      1.0
+    ],
+    "iceandfire:troll_weapon_column": [
+      1,
+      1.0
+    ],
+    "iceandfire:troll_weapon_column_forest": [
+      1,
+      1.0
+    ],
+    "iceandfire:troll_weapon_column_frost": [
+      1,
+      1.0
+    ],
+    "iceandfire:troll_weapon_hammer": [
+      1,
+      1.0
+    ],
+    "iceandfire:troll_weapon_trunk": [
+      1,
+      1.0
+    ],
+    "iceandfire:troll_weapon_trunk_frost": [
+      1,
+      1.0
+    ],
+    "minecraft:bow": [
+      1,
+      1.0
+    ],
+    "minecraft:diamond_axe": [
+      1,
+      1.0
+    ],
+    "minecraft:diamond_sword": [
+      1,
+      1.0
+    ],
+    "minecraft:enchanted_book": [
+      1,
+      1.0
+    ],
+    "minecraft:golden_axe": [
+      1,
+      1.0
+    ],
+    "minecraft:golden_sword": [
+      1,
+      1.0
+    ],
+    "minecraft:iron_axe": [
+      1,
+      1.0
+    ],
+    "minecraft:iron_sword": [
+      1,
+      1.0
+    ],
+    "minecraft:netherite_axe": [
+      1,
+      1.0
+    ],
+    "minecraft:netherite_sword": [
+      1,
+      1.0
+    ],
+    "minecraft:stone_axe": [
+      1,
+      1.0
+    ],
+    "minecraft:stone_sword": [
+      1,
+      1.0
+    ],
+    "minecraft:tnt": [
+      1,
+      1.0
+    ],
+    "minecraft:trident": [
+      1,
+      1.0
+    ],
+    "minecraft:wooden_axe": [
+      1,
+      1.0
+    ],
+    "minecraft:wooden_sword": [
+      1,
+      1.0
+    ],
+    "mowziesmobs:blowgun": [
+      1,
+      1.0
+    ],
+    "mutantmore:withered_claymore": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:beheader": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:blood_diamond_axe": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:blood_diamond_boarding_axe": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:blood_diamond_cutlass": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:blood_diamond_sword": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:bloods_bane": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:bone_boarding_axe": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:bone_cutlass": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:cold_wave": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:diamond_boarding_axe": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:diamond_cutlass": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:gilded_blood_diamond_boarding_axe": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:gilded_blood_diamond_cutlass": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:gilded_diamond_boarding_axe": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:gilded_diamond_cutlass": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:gilded_iron_boarding_axe": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:gilded_iron_cutlass": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:gilded_netherite_boarding_axe": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:gilded_netherite_cutlass": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:gilded_poseidon_boarding_axe": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:gilded_poseidon_cutlass": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:golden_boarding_axe": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:golden_cutlass": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:iron_boarding_axe": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:iron_cutlass": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:nanner_cutlass": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:netherite_boarding_axe": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:netherite_cutlass": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:poseidon_axe": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:poseidon_boarding_axe": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:poseidon_cutlass": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:poseidon_sword": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:seven_seas_cutlass": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:stone_boarding_axe": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:stone_cutlass": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:wither_bone_boarding_axe": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:wither_bone_cutlass": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:wooden_boarding_axe": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:wooden_cutlass": [
+      1,
+      1.0
+    ],
+    "stalwart_dungeons:chorundum_axe": [
+      1,
+      1.0
+    ],
+    "stalwart_dungeons:chorundum_sword": [
+      1,
+      1.0
+    ],
+    "stalwart_dungeons:tungsten_axe": [
+      1,
+      1.0
+    ],
+    "stalwart_dungeons:tungsten_sword": [
+      1,
+      1.0
+    ],
+    "twist:chargertooth": [
+      1,
+      1.0
+    ],
+    "undergarden:cloggrum_axe": [
+      1,
+      1.0
+    ],
+    "undergarden:cloggrum_battleaxe": [
+      1,
+      1.0
+    ],
+    "undergarden:cloggrum_sword": [
+      1,
+      1.0
+    ],
+    "undergarden:forgotten_axe": [
+      1,
+      1.0
+    ],
+    "undergarden:forgotten_battleaxe": [
+      1,
+      1.0
+    ],
+    "undergarden:forgotten_sword": [
+      1,
+      1.0
+    ],
+    "undergarden:froststeel_axe": [
+      1,
+      1.0
+    ],
+    "undergarden:froststeel_sword": [
+      1,
+      1.0
+    ],
+    "undergarden:utheric_axe": [
+      1,
+      1.0
+    ],
+    "undergarden:utheric_sword": [
+      1,
+      1.0
+    ]
+  },
+  "OFFHAND": {
+    "fabledweaponry:aegis_diamond": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:aegis_gold": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:aegis_iron": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:aegis_netherite": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:aegis_stone": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:aegis_wood": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:bulwark_diamond": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:bulwark_gold": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:bulwark_iron": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:bulwark_leather": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:bulwark_netherite": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:bulwark_wood": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:tome_diamond": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:tome_gold": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:tome_iron": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:tome_netherite": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:tome_stone": [
+      2,
+      1.0
+    ],
+    "fabledweaponry:tome_wood": [
+      2,
+      1.0
+    ],
+    "minecraft:ender_pearl": [
+      6,
+      1.0
+    ],
+    "minecraft:flint_and_steel": [
+      6,
+      1.0
+    ],
+    "minecraft:lava_bucket": [
+      6,
+      1.0
+    ],
+    "minecraft:shield": [
+      6,
+      1.0
+    ],
+    "minecraft:totem_of_undying": [
+      3,
+      1.0
+    ],
+    "undergarden:cloggrum_shield": [
+      6,
+      1.0
+    ]
+  },
+  "FEET": {
+    "alexsmobs:roadrunner_boots": [
+      1,
+      1.0
+    ],
+    "ba_bt:platinum_boots": [
+      1,
+      1.0
+    ],
+    "betterendforge:crystalite_boots": [
+      1,
+      1.0
+    ],
+    "betterendforge:terminite_boots": [
+      1,
+      1.0
+    ],
+    "betterendforge:thallasium_boots": [
+      1,
+      1.0
+    ],
+    "endrem:end_crystal_boots": [
+      1,
+      1.0
+    ],
+    "haunted_runescape_armor:adamant_boots": [
+      1,
+      1.0
+    ],
+    "haunted_runescape_armor:mithril_boots": [
+      1,
+      1.0
+    ],
+    "iceandfire:armor_copper_metal_boots": [
+      1,
+      1.0
+    ],
+    "iceandfire:armor_silver_metal_boots": [
+      1,
+      1.0
+    ],
+    "iceandfire:deathworm_red_boots": [
+      1,
+      1.0
+    ],
+    "iceandfire:deathworm_white_boots": [
+      1,
+      1.0
+    ],
+    "iceandfire:deathworm_yellow_boots": [
+      1,
+      1.0
+    ],
+    "iceandfire:forest_troll_leather_boots": [
+      1,
+      1.0
+    ],
+    "iceandfire:frost_troll_leather_boots": [
+      1,
+      1.0
+    ],
+    "iceandfire:mountain_troll_leather_boots": [
+      1,
+      1.0
+    ],
+    "iceandfire:sheep_boots": [
+      1,
+      1.0
+    ],
+    "minecraft:chainmail_boots": [
+      1,
+      1.0
+    ],
+    "minecraft:diamond_boots": [
+      1,
+      1.0
+    ],
+    "minecraft:golden_boots": [
+      1,
+      1.0
+    ],
+    "minecraft:iron_boots": [
+      1,
+      1.0
+    ],
+    "minecraft:leather_boots": [
+      1,
+      1.0
+    ],
+    "minecraft:netherite_boots": [
+      1,
+      1.0
+    ],
+    "mutantmore:mutant_wither_skeleton_boots": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:blood_diamond_armor_boots": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:elder_guardian_boots": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:guardian_boots": [
+      1,
+      1.0
+    ],
+    "stalwart_dungeons:chorundum_armor_boots": [
+      1,
+      1.0
+    ],
+    "stalwart_dungeons:tungsten_boots": [
+      1,
+      1.0
+    ],
+    "stalwart_dungeons:warted_tungsten_boots": [
+      1,
+      1.0
+    ],
+    "undergarden:cloggrum_boots": [
+      1,
+      1.0
+    ],
+    "undergarden:froststeel_boots": [
+      1,
+      1.0
+    ],
+    "undergarden:utheric_boots": [
+      1,
+      1.0
+    ]
+  },
+  "LEGS": {
+    "alexsmobs:centipede_leggings": [
+      1,
+      1.0
+    ],
+    "alexsmobs:emu_leggings": [
+      1,
+      1.0
+    ],
+    "ba_bt:platinum_leggings": [
+      1,
+      1.0
+    ],
+    "betterendforge:crystalite_leggings": [
+      1,
+      1.0
+    ],
+    "betterendforge:terminite_leggings": [
+      1,
+      1.0
+    ],
+    "betterendforge:thallasium_leggings": [
+      1,
+      1.0
+    ],
+    "endrem:end_crystal_leggings": [
+      1,
+      1.0
+    ],
+    "haunted_runescape_armor:adamant_leggings": [
+      1,
+      1.0
+    ],
+    "haunted_runescape_armor:mithril_leggings": [
+      1,
+      1.0
+    ],
+    "iceandfire:armor_copper_metal_leggings": [
+      1,
+      1.0
+    ],
+    "iceandfire:armor_silver_metal_leggings": [
+      1,
+      1.0
+    ],
+    "iceandfire:deathworm_red_leggings": [
+      1,
+      1.0
+    ],
+    "iceandfire:deathworm_white_leggings": [
+      1,
+      1.0
+    ],
+    "iceandfire:deathworm_yellow_leggings": [
+      1,
+      1.0
+    ],
+    "iceandfire:forest_troll_leather_leggings": [
+      1,
+      1.0
+    ],
+    "iceandfire:frost_troll_leather_leggings": [
+      1,
+      1.0
+    ],
+    "iceandfire:mountain_troll_leather_leggings": [
+      1,
+      1.0
+    ],
+    "iceandfire:sheep_leggings": [
+      1,
+      1.0
+    ],
+    "minecraft:chainmail_leggings": [
+      1,
+      1.0
+    ],
+    "minecraft:diamond_leggings": [
+      1,
+      1.0
+    ],
+    "minecraft:golden_leggings": [
+      1,
+      1.0
+    ],
+    "minecraft:iron_leggings": [
+      1,
+      1.0
+    ],
+    "minecraft:leather_leggings": [
+      1,
+      1.0
+    ],
+    "minecraft:netherite_leggings": [
+      1,
+      1.0
+    ],
+    "mutantmore:mutant_wither_skeleton_leggings": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:advanced_captain_hat_leggings": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:blood_diamond_armor_leggings": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:bone_captain_hat_leggings": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:elder_guardian_leggings": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:expert_captain_hat_leggings": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:grand_master_captain_hat_leggings": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:guardian_leggings": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:hoar_frosts_captains_hat_leggings": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:intermediate_captain_hat_leggings": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:master_captain_hat_leggings": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:novice_captain_hat_leggings": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:wither_bone_captain_hat_leggings": [
+      1,
+      1.0
+    ],
+    "stalwart_dungeons:chorundum_armor_leggings": [
+      1,
+      1.0
+    ],
+    "stalwart_dungeons:tungsten_leggings": [
+      1,
+      1.0
+    ],
+    "stalwart_dungeons:warted_tungsten_leggings": [
+      1,
+      1.0
+    ],
+    "undergarden:cloggrum_leggings": [
+      1,
+      1.0
+    ],
+    "undergarden:froststeel_leggings": [
+      1,
+      1.0
+    ],
+    "undergarden:utheric_leggings": [
+      1,
+      1.0
+    ]
+  },
+  "CHEST": {
+    "alexsmobs:crocodile_chestplate": [
+      1,
+      1.0
+    ],
+    "ba_bt:platinum_chestplate": [
+      1,
+      1.0
+    ],
+    "betterendforge:crystalite_chestplate": [
+      1,
+      1.0
+    ],
+    "betterendforge:terminite_chestplate": [
+      1,
+      1.0
+    ],
+    "betterendforge:thallasium_chestplate": [
+      1,
+      1.0
+    ],
+    "endrem:end_crystal_chestplate": [
+      1,
+      1.0
+    ],
+    "haunted_runescape_armor:adamant_chestplate": [
+      1,
+      1.0
+    ],
+    "haunted_runescape_armor:mithril_chestplate": [
+      1,
+      1.0
+    ],
+    "iceandfire:armor_copper_metal_chestplate": [
+      1,
+      1.0
+    ],
+    "iceandfire:armor_silver_metal_chestplate": [
+      1,
+      1.0
+    ],
+    "iceandfire:deathworm_red_chestplate": [
+      1,
+      1.0
+    ],
+    "iceandfire:deathworm_white_chestplate": [
+      1,
+      1.0
+    ],
+    "iceandfire:deathworm_yellow_chestplate": [
+      1,
+      1.0
+    ],
+    "iceandfire:forest_troll_leather_chestplate": [
+      1,
+      1.0
+    ],
+    "iceandfire:frost_troll_leather_chestplate": [
+      1,
+      1.0
+    ],
+    "iceandfire:mountain_troll_leather_chestplate": [
+      1,
+      1.0
+    ],
+    "iceandfire:sheep_chestplate": [
+      1,
+      1.0
+    ],
+    "minecraft:chainmail_chestplate": [
+      1,
+      1.0
+    ],
+    "minecraft:diamond_chestplate": [
+      1,
+      1.0
+    ],
+    "minecraft:golden_chestplate": [
+      1,
+      1.0
+    ],
+    "minecraft:iron_chestplate": [
+      1,
+      1.0
+    ],
+    "minecraft:leather_chestplate": [
+      1,
+      1.0
+    ],
+    "minecraft:netherite_chestplate": [
+      1,
+      1.0
+    ],
+    "mutantmore:mutant_wither_skeleton_chestplate": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:advanced_captain_hat_chestplate": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:blood_diamond_armor_chestplate": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:bone_captain_hat_chestplate": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:elder_guardian_chestplate": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:expert_captain_hat_chestplate": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:grand_master_captain_hat_chestplate": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:guardian_chestplate": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:hoar_frosts_captains_hat_chestplate": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:intermediate_captain_hat_chestplate": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:master_captain_hat_chestplate": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:novice_captain_hat_chestplate": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:wither_bone_captain_hat_chestplate": [
+      1,
+      1.0
+    ],
+    "stalwart_dungeons:chorundum_armor_chestplate": [
+      1,
+      1.0
+    ],
+    "stalwart_dungeons:tungsten_chestplate": [
+      1,
+      1.0
+    ],
+    "stalwart_dungeons:warted_tungsten_chestplate": [
+      1,
+      1.0
+    ],
+    "twist:howlchestplate_chestplate": [
+      1,
+      1.0
+    ],
+    "undergarden:cloggrum_chestplate": [
+      1,
+      1.0
+    ],
+    "undergarden:froststeel_chestplate": [
+      1,
+      1.0
+    ],
+    "undergarden:masticated_chestplate": [
+      1,
+      1.0
+    ],
+    "undergarden:utheric_chestplate": [
+      1,
+      1.0
+    ]
+  },
+  "HEAD": {
+    "alexsmobs:fedora": [
+      0,
+      0.0
+    ],
+    "alexsmobs:frontier_cap": [
+      1,
+      1.0
+    ],
+    "alexsmobs:moose_headgear": [
+      1,
+      1.0
+    ],
+    "alexsmobs:sombrero": [
+      1,
+      1.0
+    ],
+    "alexsmobs:spiked_turtle_shell": [
+      1,
+      1.0
+    ],
+    "ba_bt:platinum_helmet": [
+      1,
+      1.0
+    ],
+    "betterendforge:crystalite_helmet": [
+      1,
+      1.0
+    ],
+    "betterendforge:terminite_helmet": [
+      1,
+      1.0
+    ],
+    "betterendforge:thallasium_helmet": [
+      1,
+      1.0
+    ],
+    "endrem:end_crystal_helmet": [
+      1,
+      1.0
+    ],
+    "haunted_runescape_armor:adamant_helmet": [
+      1,
+      1.0
+    ],
+    "haunted_runescape_armor:mithril_helmet": [
+      1,
+      1.0
+    ],
+    "iceandfire:armor_copper_metal_helmet": [
+      1,
+      1.0
+    ],
+    "iceandfire:armor_silver_metal_helmet": [
+      1,
+      1.0
+    ],
+    "iceandfire:blindfold": [
+      1,
+      1.0
+    ],
+    "iceandfire:deathworm_red_helmet": [
+      1,
+      1.0
+    ],
+    "iceandfire:deathworm_white_helmet": [
+      1,
+      1.0
+    ],
+    "iceandfire:deathworm_yellow_helmet": [
+      1,
+      1.0
+    ],
+    "iceandfire:earplugs": [
+      1,
+      1.0
+    ],
+    "iceandfire:forest_troll_leather_helmet": [
+      1,
+      1.0
+    ],
+    "iceandfire:frost_troll_leather_helmet": [
+      1,
+      1.0
+    ],
+    "iceandfire:mountain_troll_leather_helmet": [
+      1,
+      1.0
+    ],
+    "iceandfire:sheep_helmet": [
+      1,
+      1.0
+    ],
+    "minecraft:chainmail_helmet": [
+      1,
+      1.0
+    ],
+    "minecraft:diamond_helmet": [
+      1,
+      1.0
+    ],
+    "minecraft:golden_helmet": [
+      1,
+      1.0
+    ],
+    "minecraft:iron_helmet": [
+      1,
+      1.0
+    ],
+    "minecraft:leather_helmet": [
+      1,
+      1.0
+    ],
+    "minecraft:netherite_helmet": [
+      1,
+      1.0
+    ],
+    "minecraft:turtle_helmet": [
+      1,
+      1.0
+    ],
+    "mowziesmobs:barakoa_mask_bliss": [
+      1,
+      1.0
+    ],
+    "mowziesmobs:barakoa_mask_faith": [
+      1,
+      1.0
+    ],
+    "mowziesmobs:barakoa_mask_fear": [
+      1,
+      1.0
+    ],
+    "mowziesmobs:barakoa_mask_fury": [
+      1,
+      1.0
+    ],
+    "mowziesmobs:barakoa_mask_misery": [
+      1,
+      1.0
+    ],
+    "mowziesmobs:barakoa_mask_rage": [
+      1,
+      1.0
+    ],
+    "mutantmore:mutant_wither_skeleton_skull": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:advanced_captain_hat_helmet": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:blood_diamond_armor_helmet": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:blue_bandana_helmet": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:bone_captain_hat_helmet": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:dull_bandana_helmet": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:elder_guardian_helmet": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:expert_captain_hat_helmet": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:familiar_hat_helmet": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:grand_master_captain_hat_helmet": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:green_bandana_helmet": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:guardian_helmet": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:hoar_frosts_captains_hat_helmet": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:intermediate_captain_hat_helmet": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:master_captain_hat_helmet": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:novice_captain_hat_helmet": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:red_bandana_helmet": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:white_bandana_helmet": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:wither_bone_captain_hat_helmet": [
+      1,
+      1.0
+    ],
+    "pirates_armoury:yellow_bandana_helmet": [
+      1,
+      1.0
+    ],
+    "quark:forgotten_hat": [
+      1,
+      1.0
+    ],
+    "stalwart_dungeons:chorundum_armor_helmet": [
+      1,
+      1.0
+    ],
+    "stalwart_dungeons:tungsten_helmet": [
+      1,
+      1.0
+    ],
+    "stalwart_dungeons:warted_tungsten_helmet": [
+      1,
+      1.0
+    ],
+    "twist:hosthat_helmet": [
+      1,
+      1.0
+    ],
+    "undergarden:cloggrum_helmet": [
+      1,
+      1.0
+    ],
+    "undergarden:froststeel_helmet": [
+      1,
+      1.0
+    ],
+    "undergarden:utheric_helmet": [
+      1,
+      1.0
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+filename = 'irregularchef-1.16.5-1.0.1.jar'
+name = "The Irregular Chef! (A Farmer's Delight Add-on)"
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'IrregularChef 1.16.5-1.0.1'
+
+[download]
+hash = '40b0a0d8a2d61ab961507d06dbf7ce8b50f18ee4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3411810
+project-id = 498222
+
+[[x-prismlauncher-dependencies]]
+addonId = '291509'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '326895'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '362393'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '365045'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '382016'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '382216'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '388992'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '398521'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '421763'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '443570'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '452345'
+type = 'OPTIONAL'

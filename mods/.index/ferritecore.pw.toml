@@ -1,0 +1,18 @@
+filename = 'ferritecore-2.1.1-forge.jar'
+name = 'FerriteCore ((Neo)Forge)'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ferritecore-2.1.1-forge.jar'
+
+[download]
+hash = '3ae8dbe663156a8dec621d255856356444586905'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4074330
+project-id = 429235

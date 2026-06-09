@@ -1,0 +1,25 @@
+filename = 'TinyChests-1.4.2.jar'
+name = 'Tiny Chests'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'TinyChests-1.4.2.jar'
+
+[download]
+hash = 'c15c90685d0b41b129fc3e41831a9132c28dfe47'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3202417
+project-id = 439515
+
+[[x-prismlauncher-dependencies]]
+addonId = '362393'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '243121'
+type = 'OPTIONAL'

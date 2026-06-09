@@ -1,0 +1,18 @@
+filename = 'AutoLeveling-1.16.5-1.15a.jar'
+name = 'Auto Leveling'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'AutoLeveling-1.16.5-1.15a.jar'
+
+[download]
+hash = '2e9c3ebef57d2f4e4f313b272db4b871e46ca704'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4510764
+project-id = 616126

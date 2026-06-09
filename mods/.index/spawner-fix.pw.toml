@@ -1,0 +1,18 @@
+filename = 'SpawnerFix-1.16.2-1.0.0.2.jar'
+name = 'Spawner Bug Fix'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.2', '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'SpawnerFix-1.16.2-1.0.0.2.jar'
+
+[download]
+hash = '7afca46cda651407d537ab2b25b06d3320731b06'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3161147
+project-id = 399022

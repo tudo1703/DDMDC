@@ -1,0 +1,21 @@
+filename = 'farmersrespite-1.16.5-1.1.jar'
+name = "Farmer's Respite"
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'farmers_respite-1.16.5-1.1'
+
+[download]
+hash = 'af2e20d358b8650aacc4d7eb36a7dbf4be9c707a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3566031
+project-id = 551453
+
+[[x-prismlauncher-dependencies]]
+addonId = '398521'
+type = 'REQUIRED'

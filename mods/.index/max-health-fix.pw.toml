@@ -1,0 +1,18 @@
+filename = 'MaxHealthFix-Forge-1.16.5-1.0.5.jar'
+name = 'Max Health Fix'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'MaxHealthFix-Forge-1.16.5-1.0.5.jar'
+
+[download]
+hash = '4f1b75a609103ca255d092bc71697c6fd0ac42a8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3764343
+project-id = 492246

@@ -1,0 +1,21 @@
+filename = 'Extra-Keybinds-1.0.0.jar'
+name = 'Extra Keybinds'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.16-1.0 Extra Keybinds'
+
+[download]
+hash = '0a6d5c7f935d3bffd5900a58b6b221dad0c4945f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3492043
+project-id = 537099
+
+[[x-prismlauncher-dependencies]]
+addonId = '474438'
+type = 'REQUIRED'

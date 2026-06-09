@@ -1,0 +1,40 @@
+
+[general]
+	#Toggle Health bars for mobs
+	toogle = true
+	#Render health bar only when the mob is visible
+	onvisible = true
+	#Show health points on bars. Note that not every type of the bars can show the hp
+	show_hp = true
+	#Show the Name above the mobs
+	show_name = true
+	#Show bars only when a mob is aggressive
+	on_aggro = false
+	#
+	#List for the mobs that should not be displayed, put a comma (,) between the registered names!
+	blacklist = "stalwart_dungeons:spore_projectile,infernal_origins_extras:entity_boss_beacon_elder_guardian,infernal_origins_extras:entity_boss_circle_ender_guardian_linger,infernal_origins_extras:entity_boss_circle_ender_guardian_red,infernal_origins_extras:entity_boss_circle_ender_guardian_yellow,infernal_origins_extras:entity_boss_circle_ender_guardian_white,infernal_origins_extras:entity_boss_circle_ender_guardian_purple,infernal_origins_extras:entity_boss_wither_chains,infernal_origins_extras:entity_boss_ice_pillar_frostmaw,infernal_origins_extras:entity_boss_crystal_hoar_frost,infernal_origins_extras:entity_boss_circle_hoar_frost,infernal_origins_extras:entity_boss_circle_netherite_monstrosity,infernal_origins_extras:entity_boss_circle_ignis,dummmmmmy:target_dummy,minecraft:ender_dragon,alexsmobs:centipede_body,alexsmobs:centipede_tail,dungeons_mobs:quick_growing_anemone,dungeons_mobs:quick_growing_vine"
+
+	#MobHealtBar
+	[general.hpbar]
+		#Health Bar Type
+		#Range: 1 ~ 13
+		type = 1
+		#X Position
+		#Range: > -2147483648
+		x-pos = 0
+		#Y Position
+		#Range: > -2147483648
+		y-pos = 14
+		#Render Distance
+		#Range: > 0
+		render-distance = 600
+		#Scale Nametag
+		#Range: 0.0 ~ 1.7976931348623157E308
+		scale-name = 0.6999999999999997
+		#Scale Bar
+		#Range: 0.0 ~ 1.7976931348623157E308
+		scale-bar = 1.0
+		#Scale Numbers
+		#Range: 0.0 ~ 1.7976931348623157E308
+		scale-nums = 1.0
+

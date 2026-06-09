@@ -1,0 +1,18 @@
+filename = 'twist-1.4.1.jar'
+name = 'Twist'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'twist-1.4.1.jar'
+
+[download]
+hash = '258b2b4b7fcb46103d04d5eb7916eb44fcb2c3eb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3423742
+project-id = 467173

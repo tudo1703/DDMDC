@@ -1,0 +1,18 @@
+filename = 'NekosEnchantedBooks-1.16-1.6.0.jar'
+name = "Neko's Enchanted Books"
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "Neko's Enchanted Books Release 1.6"
+
+[download]
+hash = 'f2d99618e220bc0a2e35044027b660ec1c0b7171'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3596692
+project-id = 441114

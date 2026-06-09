@@ -1,0 +1,18 @@
+filename = 'InsaneLib-1.4.2-mc1.16.5.jar'
+name = 'InsaneLib'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16', '1.16.1', '1.16.2', '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'InsaneLib 1.4.2'
+
+[download]
+hash = '435f082764f26495480d79700a1980b353efeaca'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3599474
+project-id = 465109

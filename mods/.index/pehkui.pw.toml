@@ -1,0 +1,18 @@
+filename = 'Pehkui-3.7.5+1.16.5-forge.jar'
+name = 'Pehkui'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '[1.16.5] [Forge] Pehkui 3.7.5'
+
+[download]
+hash = 'ba75c334e83e1fecc57d72bc4b2ba9ced3b15c2d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4556151
+project-id = 319596

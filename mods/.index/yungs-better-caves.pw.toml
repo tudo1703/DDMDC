@@ -1,0 +1,21 @@
+filename = 'BetterCaves-Forge-1.16.4-1.1.2.jar'
+name = "YUNG's Better Caves (Forge/NeoForge)"
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "[1.16.4 / 1.16.5] YUNG's Better Caves v1.1.2"
+
+[download]
+hash = '369dfc1a31f2bd69e609b5121535419ae214ac82'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3307879
+project-id = 340583
+
+[[x-prismlauncher-dependencies]]
+addonId = '421850'
+type = 'REQUIRED'

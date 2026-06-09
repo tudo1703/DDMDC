@@ -1,0 +1,18 @@
+filename = 'MouseTweaks-2.14-mc1.16.2.jar'
+name = 'Mouse Tweaks'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.2', '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[1.16.2+] Mouse Tweaks 2.14'
+
+[download]
+hash = '5f2366c650c102c71e98c9445f86a266ba20e1e4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3202662
+project-id = 60089

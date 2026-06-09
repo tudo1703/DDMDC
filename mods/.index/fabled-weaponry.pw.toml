@@ -1,0 +1,21 @@
+filename = 'fabledweaponry-1.16.5-1.0.6.jar'
+name = 'Fabled Weaponry'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'fabledweaponry-1.16.5-1.0.6.jar'
+
+[download]
+hash = 'ecce957dd74ff0f573e70103b0004ec1456acde9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5016981
+project-id = 930340
+
+[[x-prismlauncher-dependencies]]
+addonId = '827270'
+type = 'OPTIONAL'

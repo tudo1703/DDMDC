@@ -1,0 +1,18 @@
+filename = 'forgiveness-1.16.5-1.0.0.jar'
+name = 'Forgiveness'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = ' Forgiveness-1.16.5-1.0.0'
+
+[download]
+hash = '71fa62ac37f30ff67a9f06412a3b7e1959118c15'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3209515
+project-id = 401356

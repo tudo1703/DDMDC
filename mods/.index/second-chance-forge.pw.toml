@@ -1,0 +1,18 @@
+filename = 'secondchanceforge-1.16.5-1.5.0.jar'
+name = 'Second Chance (Forge)'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Second Chance (Forge) Release 1.5.0 for Minecraft 1.16.5'
+
+[download]
+hash = 'f004220d5fdab63d8065440e5bf11a5cfea86c70'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3832021
+project-id = 509239

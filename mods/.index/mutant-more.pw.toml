@@ -1,0 +1,21 @@
+filename = 'mutantmore-1.16.5-1.0.2.jar'
+name = 'Old Mutant More'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'mutantmore-1.16.5-1.0.2.jar'
+
+[download]
+hash = '734b1f2862cd8a53b7fcb7866e3055c2d0b1527a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4418147
+project-id = 539994
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'

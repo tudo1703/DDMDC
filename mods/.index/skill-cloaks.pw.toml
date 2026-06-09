@@ -1,0 +1,29 @@
+filename = 'skillcloaks-1.16.5-1.1.8.jar'
+name = 'Skillcloaks'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'skillcloaks-1.16.5-1.1.8.jar'
+
+[download]
+hash = '68b22c572028fcfb8bc0c4fd8409ba7957f4a02c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4650476
+project-id = 597907
+
+[[x-prismlauncher-dependencies]]
+addonId = '493280'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '308989'
+type = 'OPTIONAL'

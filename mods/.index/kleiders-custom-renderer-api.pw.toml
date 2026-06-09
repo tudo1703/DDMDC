@@ -1,0 +1,18 @@
+filename = 'Kleiders Custom Renderer API 4.0.5 1.16.5.jar'
+name = 'Kleiders Custom Renderer API'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Kleiders Custom Renderer API 4.0.5 1.16.5.jar'
+
+[download]
+hash = '75ce62b3ade4f55943b6c1f2d4947aa94821b109'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4016717
+project-id = 682065

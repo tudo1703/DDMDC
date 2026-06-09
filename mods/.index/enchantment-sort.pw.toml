@@ -1,0 +1,18 @@
+filename = 'EnchSort 1.1.3-165.jar'
+name = 'Enchantment Sort'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'EnchSort 1.1.3-165.jar'
+
+[download]
+hash = '74c8ac2a3d3b4f5f8077f98d617357883339357c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4183508
+project-id = 735653

@@ -1,0 +1,18 @@
+filename = 'bigfish-1.16.5-1.1.1.2.jar'
+name = 'Big Fish'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'bigfish-1.16.5-1.1.1.2.jar'
+
+[download]
+hash = '29809c0ce298a647f340679f06248618145404c8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4979666
+project-id = 645121

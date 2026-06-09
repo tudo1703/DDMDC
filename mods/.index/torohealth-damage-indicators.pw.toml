@@ -1,0 +1,18 @@
+filename = 'torohealth-1.16.4-forge-4.jar'
+name = 'ToroHealth Damage Indicators'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'torohealth-1.16.4-forge-4.jar'
+
+[download]
+hash = '51c64e724ee276cee1d04398261f80aacf635ab4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3144151
+project-id = 245733

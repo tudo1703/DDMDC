@@ -1,0 +1,18 @@
+filename = 'lootbeams-1.16.5-release-july1722.jar'
+name = 'Loot Beams: Relooted!'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'lootbeams-1.16.5-release-july1722.jar'
+
+[download]
+hash = 'ed52b7c0c7e5911ade2a23cf25870d155bbc1ce3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3879828
+project-id = 506757

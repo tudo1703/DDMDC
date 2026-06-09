@@ -1,0 +1,21 @@
+filename = 'L_Enders Cataclysm-0.48 Changed Theme -1.16.5.jar'
+name = "L_Ender 's Cataclysm"
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "L_Ender's Cataclysm -0.48 1.16.5"
+
+[download]
+hash = 'aaaac3a27b43f152494c4147b5aa9ff0b7f99878'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4418434
+project-id = 551586
+
+[[x-prismlauncher-dependencies]]
+addonId = '331936'
+type = 'REQUIRED'

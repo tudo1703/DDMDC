@@ -1,0 +1,18 @@
+filename = 'mcw-bridges-1.0.6-mc1.16.5.jar'
+name = "Macaw's Bridges"
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "[1.0.6 / 1.16.5] Macaw's Bridges"
+
+[download]
+hash = '222a80e232d2ef239aafe8a73c33760a9e580b69'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3378577
+project-id = 351725

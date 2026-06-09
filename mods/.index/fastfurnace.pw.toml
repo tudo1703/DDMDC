@@ -1,0 +1,21 @@
+filename = 'FastFurnace-1.16.5-4.5.0.jar'
+name = 'FastFurnace'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'FastFurnace-1.16.5-4.5.0.jar'
+
+[download]
+hash = 'c82de6591e933e65ab34cbec3be71787682488d2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3531342
+project-id = 299540
+
+[[x-prismlauncher-dependencies]]
+addonId = '283644'
+type = 'REQUIRED'

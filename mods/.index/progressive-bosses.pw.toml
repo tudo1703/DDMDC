@@ -1,0 +1,29 @@
+filename = 'ProgressiveBosses-3.4.3-mc1.16.5.jar'
+name = 'Progressive Bosses'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16', '1.16.1', '1.16.2', '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Progressive Bosses 3.4.3'
+
+[download]
+hash = '0ec324943707e7bf3ff8c39fd486013f7ed0438d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3622878
+project-id = 289466
+
+[[x-prismlauncher-dependencies]]
+addonId = '459701'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '457570'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '465109'
+type = 'REQUIRED'

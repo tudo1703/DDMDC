@@ -1,0 +1,18 @@
+filename = 'unions-upgrade-scrolls-v1.0.9.4-NoDamiFix.jar'
+name = "Union's Upgrade Scrolls"
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = "Union's Upgrade Scrolls v1.0.9.4 - NoDami Fix"
+
+[download]
+hash = 'ce3a1800be0574708ee2176ee39355583c17883a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5045168
+project-id = 827270

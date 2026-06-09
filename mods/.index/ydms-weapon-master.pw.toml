@@ -1,0 +1,18 @@
+filename = 'weaponmaster-client-only-forge-1.16.5-3.0.0.jar'
+name = "YDM's Weapon Master"
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = ' Forge - Client-Only - 1.16.5 - v3.0.0'
+
+[download]
+hash = 'bdc4849d32ce339cd372a319bc3a3a227c12de71'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3860131
+project-id = 608235

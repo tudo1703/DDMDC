@@ -1,0 +1,18 @@
+filename = 'toofast-1.16.5-0.0.0.1.jar'
+name = 'Too Fast'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'toofast-1.16.5-0.0.0.1.jar'
+
+[download]
+hash = '7858cb09eb0bef6ecdbdf6dbafa2617806bf59f7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3539089
+project-id = 550678

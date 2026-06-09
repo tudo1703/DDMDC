@@ -1,0 +1,21 @@
+filename = 'Iceberg-1.16.5-1.0.45.jar'
+name = 'Iceberg [Neo/Forge]'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Iceberg-1.16.5-1.0.45.jar'
+
+[download]
+hash = '9e89bc4e808c2ad99c8e03668092373d21546fb3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3943132
+project-id = 520110
+
+[[x-prismlauncher-dependencies]]
+addonId = '457570'
+type = 'OPTIONAL'

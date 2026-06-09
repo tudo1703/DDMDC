@@ -1,0 +1,21 @@
+filename = 'PlayerMobs-1.1.1.10.jar'
+name = 'Player Mobs'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'PlayerMobs-1.1.1.10.jar'
+
+[download]
+hash = '13ea80a9b4e707de0101c8f27805228a6dfbc183'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3585777
+project-id = 430513
+
+[[x-prismlauncher-dependencies]]
+addonId = '457570'
+type = 'OPTIONAL'

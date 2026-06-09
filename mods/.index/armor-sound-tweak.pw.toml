@@ -1,0 +1,18 @@
+filename = 'ArmorSoundTweak-3.1.2-forge.jar'
+name = 'Armor Sound Tweak'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16', '1.16.1', '1.16.2', '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Armor Sound Tweak 3.1.2 Forge'
+
+[download]
+hash = '6c63b30af4f41af10f1c05584abb159a60b23085'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3484085
+project-id = 277668

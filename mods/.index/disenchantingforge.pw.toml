@@ -1,0 +1,18 @@
+filename = 'Disenchanting-forge-1.16.5-1.7.1.jar'
+name = 'DisenchantingForge'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Disenchanting-forge-1.16.5-1.7.1.jar'
+
+[download]
+hash = 'd5e8e261abd97aea96634f5463d20ffdc5ab2778'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3279245
+project-id = 358578

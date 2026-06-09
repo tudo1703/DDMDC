@@ -1,0 +1,21 @@
+filename = 'dummmmmmy-1.16.5-1.3.3.jar'
+name = 'MmmMmmMmmMmm (Target Dummy)'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'dummmmmmy-1.16.5-1.3.3.jar'
+
+[download]
+hash = '5dc1d676b5331ce042872e4d373d1378aaa042fb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4529749
+project-id = 225738
+
+[[x-prismlauncher-dependencies]]
+addonId = '499980'
+type = 'REQUIRED'

@@ -1,0 +1,21 @@
+filename = 'EnchantmentDescriptions-1.16.5-7.1.20.jar'
+name = 'Enchantment Descriptions'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'EnchantmentDescriptions-1.16.5-7.1.20.jar'
+
+[download]
+hash = 'd31d7e033ced3e935d89b49a3b7da6b1434ebecc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3838362
+project-id = 250419
+
+[[x-prismlauncher-dependencies]]
+addonId = '228525'
+type = 'REQUIRED'

@@ -1,0 +1,18 @@
+filename = 'musicdr-forge-1.2.0.jar'
+name = 'Music Duration Reducer'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '[FORGE] Music Duration Reducer 1.2.0'
+
+[download]
+hash = '2eeffbfc864b5ecd0b7ca06743669045cdbdbab7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3211258
+project-id = 400131

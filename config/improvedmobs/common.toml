@@ -1,0 +1,204 @@
+
+#With default value every difficulty perk maxes out at difficulty 250
+[general]
+	#Disable/Enables the whole difficulty scaling of this mod. Requires a mc restart
+	"Enable difficulty scaling" = true
+	#Time in ticks for which the difficulty shouldnt increase at the beginning. One full minecraft day is 24000 ticks
+	"Difficulty Delay" = 0
+	#Handles increase in difficulty regarding current difficulty.
+	#Format is <minimum current difficulty>-<increase every 2400 ticks>
+	#Example ["0-0.01","10-0.1","30-0"]
+	#So the difficulty increases by 0.01 every 2400 ticks (->0.1 per mc day) till it reaches a difficulty of 10.
+	#Then it increases by 1 per mc day till it reaches 30 and then stops.
+	"Difficulty Increase" = ["0-.06", "10-.06", "100-0"]
+	#Wether difficulty should only increase with at least one online players or not
+	"Ignore Players" = true
+	#Mobs to include for the new light spawning rules.
+	#Only prevention is possible. Meaning you cant allow mobs to spawn at higher light levels
+	"Light list" = []
+	#Turn the light list whitelist to blacklist
+	"Light list blacklist" = false
+	#Light level >= x will prevent mob spawning for defined mobs.
+	#Range: 0 ~ 16
+	Light = 7
+	#Should punish time skipping with e.g. bed, commands? If false, difficulty will increase by 0.1 regardless of skipped time.
+	"Punish Time Skip" = true
+	#Disable/Enable friendly fire for owned pets.
+	FriendlyFire = false
+	#Blacklist for pet you should't be able to give armor to. Pets from mods, which have custom armor should be included here.
+	"Pet Blacklist" = []
+	#Treat pet blacklist as whitelist
+	"Pet Whitelist" = false
+	#Increase difficulty with time
+	#Here untill its back as a gamerule
+	"Difficulty toggle" = true
+	#How the difficulty at a position is calculated. Supported values are: 
+	#GLOBAL: Serverwide difficulty value
+	#PLAYERMAX: Maximum difficulty of players in a 128 radius around the position
+	#PLAYERMEAN: Average difficulty of players in a 128 radius around the position
+	#Allowed Values: GLOBAL, PLAYERMAX, PLAYERMEAN
+	"Difficulty type" = "GLOBAL"
+
+#Black/Whitelist for various stuff
+[list]
+	#Entities added here will be blacklisted from their assigned flags. Usage:
+	#<entity registry name> or <namespace> followed by any of:
+	#[ALL,ATTRIBUTES,ARMOR,HELDITEMS,BLOCKBREAK,USEITEM,LADDER,STEAL,GUARDIAN,PARROT,TARGETVILLAGER,NEUTRALAGGRO,REVERSE].
+	#Having no flags is equal to ALL. Use REVERSE to reverse all flags. Some flags do nothing for certain mobs!
+	#Examples:
+	#minecraft:sheep is equal to minecraft:sheep|ALL and excludes sheeps from all modifications
+	#minecraft:sheep|REVERSE|ATTRIBUTES will add sheep to attributes modification only
+	#minecraft:sheep|ATTRIBUTES will add sheep to everything except attributes
+	"More Entities" = ["pirates_armoury:hoar_frost|ARMOR", "minecraft:elder_guardian|ARMOR", "minecraft:wither|ARMOR", "stalwart_dungeons:shelterer_without_armor|REVERSE", "stalwart_dungeons:nether_keeper|REVERSE", "stalwart_dungeons:awful_ghast|REVERSE", "cataclysm:netherite_monstrosity|REVERSE", "cataclysm:ender_guardian|REVERSE", "cataclysm:ignis|REVERSE", "mowziesmobs:barako|REVERSE", "minecraft:giant|REVERSE", "cataclysm:ender_golem|REVERSE", "infernal_origins_extras:entity_boss_beacon_elder_guardian|REVERSE", "infernal_origins_extras:entity_boss_circle_ender_guardian_linger|REVERSE", "infernal_origins_extras:entity_boss_circle_ender_guardian_red|REVERSE", "infernal_origins_extras:entity_boss_circle_ender_guardian_white|REVERSE", "infernal_origins_extras:entity_boss_circle_ender_guardian_yellow|REVERSE", "infernal_origins_extras:entity_boss_circle_ender_guardian_purple|REVERSE", "infernal_origins_extras:entity_boss_wither_chains|REVERSE", "infernal_origins_extras:entity_boss_ice_pillar_frostmaw|REVERSE", "infernal_origins_extras:entity_boss_crystal_hoar_frost|REVERSE", "infernal_origins_extras:entity_boss_circle_hoar_frost|REVERSE", "infernal_origins_extras:entity_boss_circle_netherite_monstrosity|REVERSE", "infernal_origins_extras:entity_boss_circle_ignis|REVERSE", "ba_bt:land_golem|REVERSE", "witherstormmod:wither_storm_head|REVERSE", "witherstormmod:withered_symbiont|REVERSE", "infernal_origins_extras:entity_soul_warlock_crystal|REVERSE|ATTRIBUTES", "infernal_origins_extras:entity_bloom_flower|REVERSE|ATTRIBUTES", "infernal_origins_extras:entity_blood_archer_bone_banner|REVERSE|ATTRIBUTES", "infernal_origins_extras:entity_blood_archer_bear_trap|REVERSE|ATTRIBUTES", "infernal_origins_extras:entity_bard_harp|REVERSE|ATTRIBUTES", "infernal_origins_extras:entity_bard_harp_2|REVERSE|ATTRIBUTES", "infernal_origins_extras:entity_bard_harp_1|REVERSE|ATTRIBUTES", "infernal_origins_extras:entity_dragon_knight_sword|REVERSE|ATTRIBUTES", "dummmmmmy:target_dummy|REVERSE", "twist:boomba|REVERSE", "stalwart_dungeons:nether_wart_cocoon|REVERSE|ATTRIBUTES", "dungeons_mobs:royal_guard|ARMOR", "dungeons_mobs:skeleton_vanguard|ARMOR", "undergarden:mog|REVERSE|ATTRIBUTES", "undergarden:gloomper|REVERSE|ATTRIBUTES", "undergarden:scintling|REVERSE|ATTRIBUTES", "undergarden:brute|REVERSE|ATTRIBUTES", "undergarden:gwib|REVERSE|ALL", "undergarden:gwibling|REVERSE|ATTRIBUTES", "undergarden:dweller|REVERSE|ATTRIBUTES", "dungeons_mobs:quick_growing_vine|REVERSE|ATTRIBUTES", "dungeons_mobs:quick_growing_anemone|REVERSE|ATTRIBUTES", "dungeons_mobs:redstone_cube|REVERSE|ATTRIBUTES", "dungeons_mobs:conjured_slime|REVERSE|ATTRIBUTES", "iceandfire:troll|USEITEM", "alexsmobs:void_worm|REVERSE", "snowpig:snow_pig|REVERSE|ATTRIBUTES", "betterendforge:silk_moth|REVERSE|ATTRIBUTES", "betterendforge:end_slime|REVERSE|ATTRIBUTES", "betterendforge:end_fish|REVERSE|ATTRIBUTES", "betterendforge:dragonfly|REVERSE|ATTRIBUTES", "betterendforge:cubozoa|REVERSE|ATTRIBUTES", "alexsmobs:seagull|REVERSE|ATTRIBUTES", "glowbats:glow_bat|REVERSE|ATTRIBUTES", "minecraft:slime|REVERSE|ATTRIBUTES", "minecraft:magma_cube|REVERSE|ATTRIBUTES", "minecraft:ghast|REVERSE|ALL", "alexsmobs:soul_vulture|REVERSE|ALL", "alexsmobs:crimson_mosquito|REVERSE|ALL", "minecraft:ender_dragon|ARMOR", "minecraft:wither|ARMOR", "minecraft:endermite|ARMOR", "progressivebosses:wither_minion|ARMOR", "alexsmobs:emu|REVERSE|ATTRIBUTES", "alexsmobs:cockroach|REVERSE|ATTRIBUTES", "alexsmobs:centipede_tail", "alexsmobs:snow_leopard|REVERSE|ATTRIBUTES", "alexsmobs:lobster|REVERSE|ATTRIBUTES", "mowziesmobs:lantern|REVERSE|ATTRIBUTES", "alexsmobs:moose|REVERSE|ATTRIBUTES", "alexsmobs:seal|REVERSE|ATTRIBUTES", "shretnether:weeping_stroller_red|REVERSE|ATTRIBUTES", "alexsmobs:shoebill|REVERSE|ATTRIBUTES", "minecraft:hoglin|REVERSE|ATTRIBUTES", "alexsmobs:roadrunner|REVERSE|ATTRIBUTES", "minecraft:trader_llama|REVERSE|ATTRIBUTES", "mowziesmobs:barakoa_sunblocker_player|REVERSE|ATTRIBUTES", "tomes:wild_wolf|REVERSE|ATTRIBUTES", "alexsmobs:capuchin_monkey|REVERSE|ATTRIBUTES", "iceandfire:dread_horse|REVERSE|ATTRIBUTES", "alexsmobs:endergrade|REVERSE|ATTRIBUTES", "minecraft:horse|REVERSE|ATTRIBUTES", "iceandfire:myrmex_swarmer", "minecraft:polar_bear|REVERSE|ATTRIBUTES", "twist:sporel|REVERSE|ATTRIBUTES", "iceandfire:lightning_dragon|REVERSE|ATTRIBUTES", "mowziesmobs:grottol|REVERSE|ATTRIBUTES", "iceandfire:dragon_skull|ALL", "minecraft:llama|REVERSE|ATTRIBUTES", "minecraft:pig|REVERSE|ATTRIBUTES", "minecraft:turtle|REVERSE|ATTRIBUTES", "alexsmobs:alligator_snapping_turtle|REVERSE|ATTRIBUTES", "minecraft:sheep|REVERSE|ATTRIBUTES", "mowziesmobs:baby_foliaath|REVERSE|ATTRIBUTES", "shretnether:weeping_stroller|REVERSE|ATTRIBUTES", "minecraft:dolphin|REVERSE|ATTRIBUTES", "alexsmobs:rattlesnake|REVERSE|ATTRIBUTES", "iceandfire:fire_dragon|REVERSE|ATTRIBUTES", "quark:foxhound|REVERSE|ATTRIBUTES", "stalwart_dungeons:spore_projectile", "twist:buckus|REVERSE|ATTRIBUTES", "charm:coral_squid|REVERSE|ATTRIBUTES", "minecraft:cod|REVERSE|ATTRIBUTES", "alexsmobs:mantis_shrimp|REVERSE|ATTRIBUTES", "alexsmobs:komodo_dragon|REVERSE|ATTRIBUTES", "alexsmobs:hammerhead_shark|REVERSE|ATTRIBUTES", "minecraft:donkey|REVERSE|ATTRIBUTES", "alexsmobs:tiger|REVERSE|ATTRIBUTES", "alexsmobs:raccoon|REVERSE|ATTRIBUTES", "alexsmobs:grizzly_bear|REVERSE|ATTRIBUTES", "alexsmobs:platypus|REVERSE|ATTRIBUTES", "minecraft:squid|REVERSE|ATTRIBUTES", "minecraft:skeleton_horse|REVERSE|ATTRIBUTES", "iceandfire:myrmex_soldier", "twist:groundedslug|REVERSE|ATTRIBUTES", "quark:stoneling|REVERSE|ATTRIBUTES", "minecraft:cow|REVERSE|ATTRIBUTES", "mowziesmobs:barakoaya|REVERSE|ATTRIBUTES", "undergarden:dweller", "alexsmobs:fly|REVERSE|ATTRIBUTES", "iceandfire:hippocampus|REVERSE|ATTRIBUTES", "minecraft:bee|REVERSE|ATTRIBUTES", "mowziesmobs:barakoa_sunblocker|REVERSE|ATTRIBUTES", "quark:shiba|REVERSE|ATTRIBUTES", "iceandfire:pixie", "alexsmobs:crocodile|REVERSE|ALL", "quark:toretoise|REVERSE|ATTRIBUTES", "minecraft:salmon|REVERSE|ATTRIBUTES", "iceandfire:myrmex_queen", "mowziesmobs:barakoan_barakoana|REVERSE|ATTRIBUTES", "mowziesmobs:naga|REVERSE|ATTRIBUTES", "quark:frog|REVERSE|ATTRIBUTES", "undergarden:scintling", "minecraft:snow_golem", "undergarden:brute", "minecraft:mooshroom|REVERSE|ATTRIBUTES", "alexsmobs:frilled_shark|REVERSE|ATTRIBUTES", "iceandfire:myrmex_sentinel", "minecraft:villager|REVERSE|ATTRIBUTES", "mowziesmobs:foliaath|REVERSE|ATTRIBUTES", "mowziesmobs:frostmaw|REVERSE|ATTRIBUTES", "alexsmobs:bald_eagle|REVERSE|ATTRIBUTES", "mowziesmobs:ferrous_wroughtnaut|REVERSE", "iceandfire:myrmex_royal", "iceandfire:ice_dragon|REVERSE|ATTRIBUTES", "minecraft:rabbit|REVERSE|ATTRIBUTES", "artifacts:mimic|REVERSE|ATTRIBUTES", "stalwart_dungeons:nether_keeper|REVERSE|ATTRIBUTES", "alexsmobs:blobfish|REVERSE|ATTRIBUTES", "tomes:spectral_steed|REVERSE|ATTRIBUTES", "alexsmobs:gorilla|REVERSE|ATTRIBUTES", "undergarden:gloomper", "alexsmobs:orca|REVERSE|ATTRIBUTES", "minecraft:strider|REVERSE|ATTRIBUTES", "undergarden:gwibling", "minecraft:parrot|REVERSE|ATTRIBUTES", "alexsmobs:leafcutter_ant|REVERSE|ATTRIBUTES", "quark:crab|REVERSE|ATTRIBUTES", "alexsmobs:mungus|REVERSE|ATTRIBUTES", "minecraft:bat|REVERSE|ATTRIBUTES", "minecraft:wandering_trader|REVERSE|ATTRIBUTES", "alexsmobs:spectre|REVERSE|ATTRIBUTES", "iceandfire:amphithere|REVERSE|ATTRIBUTES", "iceandfire:sea_serpent|REVERSE|ATTRIBUTES", "minecraft:iron_golem|REVERSE|ATTRIBUTES", "alexsmobs:kangaroo|REVERSE|ATTRIBUTES", "iceandfire:mob_skull|ALL", "tomes:tamed_spider|REVERSE|ATTRIBUTES", "mowziesmobs:barakoan_player|REVERSE|ATTRIBUTES", "twist:howl|REVERSE|ATTRIBUTES", "alexsmobs:mimic_octopus|REVERSE|ATTRIBUTES", "quark:leash_knot_fake", "alexsmobs:hummingbird|REVERSE|ATTRIBUTES", "alexsmobs:elephant|REVERSE|ATTRIBUTES", "undergarden:gwib", "twist:peblings|REVERSE|ATTRIBUTES", "alexsmobs:gazelle|REVERSE|ATTRIBUTES", "minecraft:mule|REVERSE|ATTRIBUTES", "alexsmobs:enderiophage|REVERSE|ATTRIBUTES", "alexsmobs:crow|REVERSE|ATTRIBUTES", "minecraft:zombie_horse|REVERSE|ATTRIBUTES", "alexsmobs:sunbird|REVERSE|ATTRIBUTES", "iceandfire:cockatrice|REVERSE|ATTRIBUTES", "alexsmobs:tasmanian_devil|REVERSE|ATTRIBUTES", "iceandfire:myrmex_worker", "alexsmobs:centipede_body", "minecraft:cat|REVERSE|ATTRIBUTES", "minecraft:pufferfish|REVERSE|ATTRIBUTES", "alexsmobs:stradpole|REVERSE|ATTRIBUTES", "mutantmore:rodling|REVERSE|ATTRIBUTES", "alexsmobs:tarantula_hawk|REVERSE|ATTRIBUTES", "minecraft:fox|REVERSE|ATTRIBUTES", "alexsmobs:cachalot_whale|REVERSE|ATTRIBUTES", "mutantmore:mutant_shulker_box", "minecraft:tropical_fish|REVERSE|ATTRIBUTES", "undergarden:minion", "iceandfire:hippogryph|REVERSE|ATTRIBUTES", "minecraft:ocelot|REVERSE|ATTRIBUTES", "alexsmobs:warped_toad|REVERSE|ATTRIBUTES", "iceandfire:deathworm|REVERSE|ALL", "minecraft:chicken|REVERSE|ATTRIBUTES", "minecraft:wolf|REVERSE|ATTRIBUTES", "mowziesmobs:barakoana|REVERSE|ATTRIBUTES", "minecraft:panda|REVERSE|ATTRIBUTES", "undergarden:mog", "charm:moobloom|REVERSE|ATTRIBUTES"]
+	#Put the above flags here to completly disable them.
+	"Flag Blacklist" = []
+	#Treat ATTRIBUTES flags as whitelist
+	"Attribute Whitelist" = false
+	#Treat ARMOR flags as whitelist
+	"Armor Equip Whitelist" = false
+	#Treat HELDITEMS flags as whitelist
+	"Held Equip Whitelist" = false
+	#Treat BLOCKBREAK flags as whitelist
+	"Breaker Whitelist" = false
+	#Treat USEITEM flags as whitelist
+	"Item Use Whitelist" = false
+	#Treat LADDER flags as whitelist
+	"Ladder Whitelist" = false
+	#Treat STEAL flags as whitelist
+	"Steal Whitelist" = false
+	#Treat GUARDIAN flags as whitelist
+	"Guardian Whitelist" = false
+	#Treat PARROT flags as whitelist
+	"Parrot Whitelist" = false
+	#Treat TARGETVILLAGER flags as whitelist
+	"Villager Whitelist" = false
+	#Treat NEUTRALAGGRO flags as whitelist
+	"Neutral Aggro Whitelist" = false
+
+#Debugging
+[debug]
+	#Enable showing of entity paths
+	"Path Debugging" = false
+
+#Settings for mod integration
+[integration]
+	#Should the scaling health mods difficulty system be used instead of this ones. (Requires scaling health mod)
+	"Use Scaling Health Mod" = false
+
+#Settings regarding custom ai for mobs
+[ai]
+	#Whitelist for blocks, which can be actively broken. 
+	#Usage: <registry name;classname;tag;namespace> put "!" infront to exclude blocks
+	#Note: If you include common blocks (like grass blocks) the pathfinding will be a bit strange
+	"Block Whitelist" = ["forge:glass", "forge:glass_panes", "minecraft:fence_gates", "forge:fence_gates", "minecraft:wooden_doors"]
+	#Treat Block Whitelist as Blocklist
+	"Block as Blacklist" = false
+	#Use the block breaking sound instead of a knocking sound
+	Sound = false
+	#Chance for a mob to be able to break blocks
+	#Range: 0.0 ~ 1.0
+	"Breaker Chance" = 0.0
+	#Initial cooldown for block breaking mobs
+	"Breaker Initial Cooldown" = 120
+	#Cooldown for breaking blocks
+	"Breaker Cooldown" = 20
+	#Chance for a mob to be able to steal items
+	#Range: 0.0 ~ 1.0
+	"Stealer Chance" = 0.0
+	#Items which will be given to mobs who can break blocks. Empty list = no items. Syntax: id;weight
+	"Breaking items" = ["minecraft:diamond_pickaxe;1"]
+	#Should mobs be able to break tile entities? Evaluated before the break list
+	"Break Tiles" = true
+	#Chance for neutral mobs to be aggressive
+	#Range: 0.0 ~ 1.0
+	"Neutral Aggressive Chance" = 0.0
+	#List for of pairs containing which mobs auto target others. Syntax is [mob id]-[mob id] where second value is the target.
+	# e.g. minecraft:zombie-minecraft:skeleton makes all zombies target skeletons
+	"Auto Target List" = []
+	#Delay for the coroutil repair block. Coroutil integration needs to be enabled
+	"Repair Ticks" = 500
+	#Difficulty at which mobs are able to break blocks
+	"Difficulty Break AI" = 0.0
+	#Difficulty at which mobs are able to steal items
+	"Difficulty Steal AI" = 0.0
+	#Chance for mobs to be able to ride a parrot
+	"Fly Chance" = 0.0
+	#Chance for mobs to be able to ride a guardian
+	#Range: 0.0 ~ 1.0
+	"Guardian Chance" = 0.0
+
+#Configs regarding mobs spawning with equipment
+[equipment]
+	#Blacklist for mods. Add modid to prevent items from that mod being equipped. (For individual items use the equipment.json)
+	"Item Blacklist" = []
+	#Use blacklist as whitelist
+	"Item Whitelist" = false
+	#Blacklist for items mobs should never be able to use.
+	#Use as in using the item similar to players (e.g. shooting bows)
+	"Item Use Blacklist" = ["bigbrain:buckler"]
+	#Turn the use blacklist into a whitelist
+	"Item Use Whitelist" = false
+	#Blacklist for specific mobs and items they shouldnt use (e.g. skeletons already use bows)
+	#<entity registry name-item>
+	#For different items but same entity use multiple lines
+	#Some special names are BOW, TRIDEN, CROSSBOW refering to every bow/trident/crossbow item (So you dont need to type e.g. every bow item)
+	"Entity Item Use Blacklist" = ["minecraft:drowned;TRIDENT", "minecraft:illusioner;BOW", "minecraft:piglin;CROSSBOW", "minecraft:pillager;CROSSBOW", "minecraft:skeleton;BOW", "minecraft:snow_golem;minecraft:snowball", "minecraft:stray;BOW", "minecraft:wither_skeleton;BOW"]
+	#Base chance that a mob can have one piece of armor
+	#Range: 0.0 ~ 1.0
+	"Equipment Chance" = 0.75
+	#Base chance for each additional armor pieces
+	#Range: 0.0 ~ 1.0
+	"Additional Equipment Chance" = 0.75
+	#Adds additional x*difficulty% to base equip chance
+	"Equipment Addition" = 1.0
+	#Chance for mobs to have a weapon
+	#Range: 0.0 ~ 1.0
+	"Weapon Chance" = 0.75
+	#Adds additional x*difficulty% to base weapon chance
+	"Weapon Chance Add" = 0.3
+	#Base chance for each armor pieces to get enchanted
+	#Range: 0.0 ~ 1.0
+	"Enchanting Chance" = 0.5
+	#Adds additional x*difficulty% to base enchanting chance
+	"Enchanting Addition" = 0.2
+	#Specify min and max enchanting levels according to difficulty. difficulty-minLevel-maxLevel
+	"Enchanting Calc" = ["0-10-15", "10-15-20", "20-20-25", "30-25-35", "40-35-45", "50-45-65"]
+	#Chance for mobs to have an item in offhand
+	#Range: 0.0 ~ 1.0
+	"Item Equip Chance" = 0.2
+	#Adds additional x*difficulty% to base item chance
+	"Item Chance add" = 0.2
+	#Should mobs drop the armor equipped through this mod? (Other methods e.g. through vanilla is not included)
+	"Should drop equipment" = true
+
+#Settings for attribute modifiers
+[attributes]
+	#Health will be multiplied by difficulty*0.016*x. Set to 0 to disable
+	"Health Increase Multiplier" = 50.0
+	#Health will be multiplied by at maximum this. Set to 0 means no limit
+	"Max Health Increase" = 250.0
+	#Round health to the nearest x. Set to 0 to disable
+	"Round HP" = 0.5
+	#Damage will be multiplied by difficulty*0.008*x. Set to 0 to disable
+	"Damage Increase Multiplier" = 18.0
+	#Damage will be multiplied by at maximum this. Set to 0 means no limit
+	"Max Damage Increase" = 60.0
+	#Speed will be increased by difficulty*0.0008*x. Set to 0 to disable
+	"Speed Increase" = 0.0
+	#Maximum increase in speed
+	#Range: 0.0 ~ 1.0
+	"Max Speed" = 0.0
+	#Knockback will be increased by difficulty*0.002*x. Set to 0 to disable
+	"Knockback Increase" = 0.005
+	#Maximum increase in knockback
+	"Max Knockback" = 0.5
+	#Magic resistance will be increased by difficulty*0.0016*x. Set to 0 to disable
+	"Magic Resistance Increase" = 0.0
+	#Maximum increase in magic resistance. Magic reduction is percentage
+	#Range: 0.0 ~ 1.0
+	"Max Magic Resistance" = 0.0
+	#Projectile Damage will be multiplied by 1+difficulty*0.008*x. Set to 0 to disable
+	"Projectile Damage Increase" = 18.0
+	#Projectile damage will be multiplied by maximum of this
+	"Max Projectile Damage" = 60.0
+

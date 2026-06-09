@@ -1,0 +1,18 @@
+filename = 'castle_dungeons-3.3-1.16.5-forge.jar'
+name = 'Castle Dungeons [Forge & Fabric]'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'castle_dungeons-3.3-1.16.5-forge.jar'
+
+[download]
+hash = 'bc6ba041f35809296d895e9c9006ba033977d643'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3669969
+project-id = 399213

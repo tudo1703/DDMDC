@@ -1,0 +1,18 @@
+filename = 'architectury-1.20.29-forge.jar'
+name = 'Architectury API'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Forge 1.16.4/5] v1.20.29'
+
+[download]
+hash = '9e51f41ac431885ca9fff4dfd1ee3b0c77f1285d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3415041
+project-id = 419699

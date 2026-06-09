@@ -1,0 +1,21 @@
+filename = 'dungeons_enhanced-1.16.5-1.8.1.jar'
+name = 'Dungeons Enhanced'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Dungeons Enhanced - 1.16.5 - 1.8.1'
+
+[download]
+hash = '59774b56ef5526c548c9ae3ae89bd4340f2b61b7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3916825
+project-id = 480715
+
+[[x-prismlauncher-dependencies]]
+addonId = '378802'
+type = 'REQUIRED'

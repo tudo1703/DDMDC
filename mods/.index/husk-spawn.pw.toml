@@ -1,0 +1,21 @@
+filename = 'huskspawn_1.16.5-1.4.jar'
+name = 'Husk Spawn'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'huskspawn_1.16.5-1.4.jar'
+
+[download]
+hash = '1eb0b19e112490581686111310731afe515b9304'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3379830
+project-id = 348176
+
+[[x-prismlauncher-dependencies]]
+addonId = '342584'
+type = 'REQUIRED'

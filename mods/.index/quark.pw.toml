@@ -1,0 +1,21 @@
+filename = 'Quark-r2.4-322.jar'
+name = 'Quark'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Quark-r2.4-322.jar'
+
+[download]
+hash = 'c314a534737baba9416c4947e15f81c6243f9844'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3642325
+project-id = 243121
+
+[[x-prismlauncher-dependencies]]
+addonId = '250363'
+type = 'REQUIRED'

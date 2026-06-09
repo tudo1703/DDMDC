@@ -1,0 +1,21 @@
+filename = 'BetterDungeons-1.16.4-1.2.jar'
+name = "YUNG's Better Dungeons (Forge/NeoForge)"
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "[1.16.4 / 1.16.5] YUNG's Better Dungeons v1.2"
+
+[download]
+hash = '555b933a9fb30dab431dfaa9f808af8c8dcbe8da'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3419642
+project-id = 510089
+
+[[x-prismlauncher-dependencies]]
+addonId = '421850'
+type = 'REQUIRED'

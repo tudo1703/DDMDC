@@ -1,0 +1,18 @@
+filename = 'nodami-1.16.5-0.1.1.jar'
+name = 'NoDamI (No Damage Immunity)'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = 'nodami-1.16.5-0.1.1.jar'
+
+[download]
+hash = 'c9f9b380f5cec9d99b1d4ce065a15e4a2d7379e5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3256604
+project-id = 267721

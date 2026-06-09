@@ -1,0 +1,18 @@
+filename = 'configured-1.2.0-1.16.3.jar'
+name = 'Configured'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Configured 1.2.0'
+
+[download]
+hash = '47972927118b1d3ef5876aa00c61c2892c33227f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3434071
+project-id = 457570

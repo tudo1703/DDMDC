@@ -1,0 +1,18 @@
+filename = 'rubidium-0.2.10.jar'
+name = 'Rubidium'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Rubidium mc1.16.5-0.2.10'
+
+[download]
+hash = '42b1dd26a20e12c680228b8a03dfbf88e7fbd0b3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3949659
+project-id = 574856

@@ -1,0 +1,33 @@
+{
+  "requiredReviveProgress": 100.0,
+  "progressPerPlayer": 1.0,
+  "maxDistance": 3,
+  "bleedTime": 300,
+  "haltBleedTime": true,
+  "reviveItem": "{id:\"item\",item:\"minecraft:paper\"}",
+  "needReviveItem": false,
+  "consumeReviveItem": false,
+  "healthAfterRevive": 1,
+  "affectFood": false,
+  "foodAfterRevive": 6,
+  "exhaustion": 0.0,
+  "banPlayerAfterDeath": false,
+  "disableBleedingMessage": false,
+  "sounds": {
+    "death": {
+      "sound": "playerrevive:death",
+      "volume": 0.8,
+      "pitch": 1.0
+    },
+    "revived": {
+      "sound": "playerrevive:revived",
+      "volume": 0.8,
+      "pitch": 1.0
+    }
+  },
+  "bypassDamageSources": [
+    "gorgon",
+    "death.attack.sgcraft:transient",
+    "death.attack.sgcraft:iris"
+  ]
+}

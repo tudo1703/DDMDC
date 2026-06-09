@@ -1,0 +1,18 @@
+filename = 'enhancedcelestials-2.0.9-1.16.5.jar'
+name = 'Enhanced Celestials - Blood, Blue, & Harvest (Super) Moons'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'enhancedcelestials-2.0.9-1.16.5.jar'
+
+[download]
+hash = '26fc85165d24acd3390d563196cc0b44ed88c8b0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3532022
+project-id = 438447

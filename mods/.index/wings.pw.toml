@@ -1,0 +1,18 @@
+filename = 'wings-2.1.0-1.16.5.jar'
+name = 'Wings'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Wings 2.1.0 for Minecraft 1.16.5'
+
+[download]
+hash = '28053c08eb7762899615cca0c864a67c45f68e6d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3679950
+project-id = 302584

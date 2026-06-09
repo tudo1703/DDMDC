@@ -1,0 +1,25 @@
+filename = 'ArmorUnlocked-1.16.3-1.0.1.jar'
+name = 'Armor Unlocked'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ArmorUnlocked-1.16.3-1.0.1.jar'
+
+[download]
+hash = '62d2f931f9ca035d8972001102b92430b43cb639'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3156177
+project-id = 431995
+
+[[x-prismlauncher-dependencies]]
+addonId = '280510'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '314002'
+type = 'OPTIONAL'

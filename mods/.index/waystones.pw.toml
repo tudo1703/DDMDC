@@ -1,0 +1,18 @@
+filename = 'Waystones_1.16.5-7.6.4.jar'
+name = 'Waystones'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Waystones_1.16.5-7.6.4.jar'
+
+[download]
+hash = '986457447ebc040939214d5d59efb5529e3f9648'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3515707
+project-id = 245755

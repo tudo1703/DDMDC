@@ -1,0 +1,37 @@
+filename = 'AdvancementPlaques-1.16.5-1.4.1.jar'
+name = 'Advancement Plaques [Neo/Forge]'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'AdvancementPlaques-1.16.5-1.4.1.jar'
+
+[download]
+hash = '7796ca15e954ac8d73dfbe29d4476f276048e4ac'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3507674
+project-id = 499826
+
+[[x-prismlauncher-dependencies]]
+addonId = '224712'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '253449'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '271740'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '324717'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '520110'
+type = 'REQUIRED'

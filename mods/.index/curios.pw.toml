@@ -1,0 +1,18 @@
+filename = 'curios-forge-1.16.5-4.1.0.0.jar'
+name = 'Curios API (Forge/NeoForge)'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'curios-forge-1.16.5-4.1.0.0.jar'
+
+[download]
+hash = '44cb4b783bf194b092e3986e40f9d78501f51ae2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4419403
+project-id = 309927

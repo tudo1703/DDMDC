@@ -1,0 +1,18 @@
+filename = 'infernalenchantments-1.16.5-0.1.4.jar'
+name = 'Infernal Enchantments'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'infernalenchantments-1.16.5-0.1.4.jar'
+
+[download]
+hash = 'bc695de0fbf1e3400d4fde1797d753565c1c4519'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4513067
+project-id = 643923

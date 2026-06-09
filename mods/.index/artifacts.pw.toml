@@ -1,0 +1,21 @@
+filename = 'Artifacts-1.16.5-2.8.4.jar'
+name = 'Artifacts'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Artifacts-1.16.5-2.8.4.jar'
+
+[download]
+hash = 'bc1c615f96b3390419b12c7afaaafb898e35198a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3276108
+project-id = 312353
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'REQUIRED'

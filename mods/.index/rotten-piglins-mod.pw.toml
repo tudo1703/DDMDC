@@ -1,0 +1,18 @@
+filename = 'rottenPiglins1_2_0.jar'
+name = 'Rotten Piglins Mod(Forge)'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Rotten Piglins Great Warrior Update 2.0'
+
+[download]
+hash = 'e891abc8ebce6cf31cc1d669d503a9eed5b7d137'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3584984
+project-id = 522084

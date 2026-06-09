@@ -1,0 +1,33 @@
+filename = 'QuestPlaques-1.16.5-1.0.2.jar'
+name = 'Quest Plaques [Forge]'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'QuestPlaques-1.16.5-1.0.2.jar'
+
+[download]
+hash = '62ca258d6bf2a5186214d88d8be7baabcc2c73a4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3795547
+project-id = 577121
+
+[[x-prismlauncher-dependencies]]
+addonId = '520110'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '289412'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '334985'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '499826'
+type = 'REQUIRED'

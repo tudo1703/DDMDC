@@ -1,0 +1,18 @@
+filename = 'BowInfinityFix-1.16.x-rv9.1.jar'
+name = 'Bow Infinity Fix (Forge/Fabric)'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.1', '1.16.2', '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Bow Infinity Fix rv9.1 for Forge'
+
+[download]
+hash = '8401b7b72006144468136192015572e2395cade5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3071178
+project-id = 224713

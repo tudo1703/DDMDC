@@ -1,0 +1,18 @@
+filename = 'bwncr-1.16.5-3.10.16.jar'
+name = 'Bad Wither No Cookie - Reloaded'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'bwncr-1.16.5-3.10.16.jar'
+
+[download]
+hash = '9613759fa750abb12824bb0a6f7a22f2559214a8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3430455
+project-id = 261251

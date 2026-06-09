@@ -1,0 +1,18 @@
+filename = 'loadmyresources_forge_1.0.4_MC_1.16.2-1.16.5.jar'
+name = 'Load My Resources [Forge]'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.16.2', '1.16.3', '1.16.4', '1.16.5' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Forge] v1.0.4 MC 1.16.2-1.16.5'
+
+[download]
+hash = '22e20624ebf8f49520c4bdb54f010c4a509c6f11'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4118352
+project-id = 534502
