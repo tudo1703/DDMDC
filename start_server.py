@@ -90,12 +90,68 @@ else:
 # Tao thu muc crash-reports neu chua ton tai
 os.makedirs("crash-reports", exist_ok=True)
 
+def get_client_mods():
+    backup_dir = "client_mods_backup"
+    if not os.path.exists(backup_dir):
+        return []
+    client_mods = []
+    for f in os.listdir(backup_dir):
+        name = f
+        if name.endswith(".disabled"):
+            name = name[:-9]
+        if name.endswith(".jar"):
+            client_mods.append(name)
+    return list(set(client_mods))
+
+def restore_client_mods():
+    if not os.path.exists("mods"):
+        return
+    restored = 0
+    for f in os.listdir("mods"):
+        if f.endswith(".disabled"):
+            disabled_path = os.path.join("mods", f)
+            original_name = f[:-9]
+            original_path = os.path.join("mods", original_name)
+            try:
+                if os.path.exists(original_path):
+                    os.remove(original_path)
+                os.rename(disabled_path, original_path)
+                restored += 1
+            except Exception as e:
+                print(f"[-] Loi restore mod {f}: {e}")
+    if restored:
+        print(f"[+] Da khoi phuc lai {restored} client mods trong thu muc mods/")
+
+def disable_client_mods():
+    restore_client_mods()
+    client_mods = get_client_mods()
+    if not client_mods:
+        return []
+    disabled = []
+    for mod in client_mods:
+        mod_path = os.path.join("mods", mod)
+        if os.path.exists(mod_path):
+            disabled_path = mod_path + ".disabled"
+            try:
+                if os.path.exists(disabled_path):
+                    os.remove(disabled_path)
+                os.rename(mod_path, disabled_path)
+                disabled.append((mod_path, disabled_path))
+            except Exception as e:
+                print(f"[-] Loi vo hieu hoa mod {mod}: {e}")
+    if disabled:
+        print(f"[+] Da tam thoi vo hieu hoa {len(disabled)} client-side mods de khoi dong server.")
+    return disabled
+
 print("=" * 70)
 print("Khoi dong Minecraft Server... Vui long doi...")
 print("=" * 70)
 
 # Khoi chay server tuy theo he dieu hanh
 try:
+    # Vo hieu hoa cac client mod truoc khi chay
+    disable_client_mods()
+    
     # Cau hinh RAM toi thieu 4GB (-Xms4G) va toi da 8GB (-Xmx8G)
     ram_args = ["-Xms4G", "-Xmx8G", "-XX:+UseG1GC"]
     jar_file = "forge-1.16.5-36.2.42.jar"
@@ -190,3 +246,6 @@ except KeyboardInterrupt:
     print("\n[!] Dang tat server...")
 except Exception as e:
     print(f"[!] Loi khi chay server: {e}")
+finally:
+    # Luon khoi phuc lai cac client mod sau khi server dung
+    restore_client_mods()
