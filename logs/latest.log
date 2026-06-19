@@ -2541,3 +2541,26 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 [19Jun2026 15:44:14.717] [Server thread/INFO] [Waila/]: Syncing config to DungChi1202 (b90101bc-0389-373a-b5cd-864c6059b82e)
 [19Jun2026 15:44:27.142] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DungChi1202 lost connection: Disconnected
 [19Jun2026 15:44:27.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DungChi1202 left the game
+[19Jun2026 15:54:04.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Frisky_G has completed the challenge [Serious Dedication]
+[19Jun2026 15:54:52.335] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7759b067
+[19Jun2026 15:54:52.340] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DungChi1202[/127.170.64.99:55227] logged in with entity id 53965 at (-378.3181864801885, 67.0, 199.14048686152805)
+[19Jun2026 15:54:52.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DungChi1202 joined the game
+[19Jun2026 15:54:52.388] [Server thread/INFO] [Waila/]: Syncing config to DungChi1202 (b90101bc-0389-373a-b5cd-864c6059b82e)
+[19Jun2026 15:56:04.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Frisky_G> xaero-waypoint:Shared Location:S:689:126:-321:11:false:0:Internal-overworld-waypoints
+[19Jun2026 15:56:25.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DungChi1202 has made the advancement [A Rogue's Best Friend]
+[19Jun2026 15:56:25.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DungChi1202 has made the advancement [Suit Up]
+[19Jun2026 15:57:51.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DungChi1202 has made the advancement [Stone Age]
+[19Jun2026 16:00:22.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DungChi1202 is bleeding...
+[19Jun2026 16:00:35.852] [Server thread/INFO] [dev.quarris.enigmaticgraves.EnigmaticGraves/]: Cannot spawn grave. Player is spectator or the KEEP_INVENTORY gamerule is enabled
+[19Jun2026 16:00:35.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DungChi1202 was killed by magic
+[19Jun2026 16:03:37.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DungChi1202 has made the advancement [PI-KA-CHU]
+[19Jun2026 16:05:22.305] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: DungChi1202 was kicked for floating too long!
+[19Jun2026 16:05:22.307] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DungChi1202 lost connection: Flying is not enabled on this server
+[19Jun2026 16:05:22.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DungChi1202 left the game
+[19Jun2026 16:05:22.355] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[19Jun2026 16:05:27.746] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@68fa3f54
+[19Jun2026 16:05:27.753] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: DungChi1202[/127.170.64.99:53683] logged in with entity id 61755 at (362.7773347231082, 62.034669462125, -325.8336613837317)
+[19Jun2026 16:05:27.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DungChi1202 joined the game
+[19Jun2026 16:05:27.768] [Server thread/INFO] [Waila/]: Syncing config to DungChi1202 (b90101bc-0389-373a-b5cd-864c6059b82e)
+[19Jun2026 16:06:15.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DungChi1202 has made the advancement [Acquire Hardware]
+[19Jun2026 16:06:15.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DungChi1202 has made the advancement [Diamonds!]
