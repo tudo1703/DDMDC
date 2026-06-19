@@ -8,7 +8,7 @@
   "defaultItemWorth": 0,
   "allowLevelingOfUselessEnchantments": false,
   "allowLevelingOfBreakingEnchanments": false,
-  "globalEnchantmentCap": 10,
+  "globalEnchantmentCap": 100,
   "enchantmentWhitelist": [],
   "enchantmentBlacklist": [
     "minecraft:mending",

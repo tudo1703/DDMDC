@@ -1,0 +1,18 @@
+
+["Server config for Entity Enchantment mod"]
+	#This is the width that the Enchantment Shifter checks for entities. 
+	#Range: 0.0 ~ 1.7976931348623157E308
+	shifterWidth = 3.0
+	#This is the height that the Enchantment Shifter checks for entities. 
+	#Range: 0.0 ~ 1.7976931348623157E308
+	shifterHeight = 2.0
+	#This is the cost in experience levels to use the Enchantment Shifter. 
+	#Range: > 0
+	shifterCost = 5
+	#This is the base rate of an entity enchantment on a spawning entity. 
+	#Range: 0.0 ~ 1.0
+	rate = 0.1
+	#This is the success rate for the binomial distribution used to select natural entity enchantment levels. 
+	#Range: 0.05 ~ 0.95
+	levelRate = 0.25
+
