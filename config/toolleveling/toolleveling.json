@@ -8,7 +8,7 @@
   "defaultItemWorth": 0,
   "allowLevelingOfUselessEnchantments": false,
   "allowLevelingOfBreakingEnchanments": false,
-  "globalEnchantmentCap": 100,
+  "globalEnchantmentCap": 10000,
   "enchantmentWhitelist": [],
   "enchantmentBlacklist": [
     "minecraft:mending",
@@ -23,10 +23,10 @@
     "ensorcellation:frost_aspect"
   ],
   "enchantmentCaps": {
-    "minecraft:fortune": 5,
+    "minecraft:fortune": 10000,
     "minecraft:depth_strider": 3,
-    "minecraft:efficiency": 8,
-    "wonderful_enchantments:fishing_fanatic": 6,
-    "wonderful_enchantments:true_fishing_fanatic": 6
+    "minecraft:efficiency": 70,
+    "wonderful_enchantments:fishing_fanatic": 100,
+    "wonderful_enchantments:true_fishing_fanatic": 100
   }
 }
