@@ -839,6 +839,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2026-06-23 05:36:52 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/jungle_log_bridge_middle": {
     "criteria": {
       "has_planks": "2026-06-21 03:07:40 +0000"
@@ -1637,6 +1643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2026-06-23 04:46:03 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/birch": {
     "criteria": {
       "has_planks": "2026-06-19 15:26:48 +0000"
@@ -1646,6 +1658,12 @@
   "endrem:main/black_eye": {
     "criteria": {
       "black_eye": "2026-06-21 04:05:03 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2026-06-23 05:17:51 +0000"
     },
     "done": true
   },
@@ -1706,6 +1724,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/katana_gold": {
     "criteria": {
       "has_gold_ingot": "2026-06-17 05:23:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2026-06-23 05:47:26 +0000"
     },
     "done": true
   },
@@ -1892,6 +1916,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_red_dye": "2026-06-21 00:25:24 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/guardian_eye": {
+    "criteria": {
+      "guardian_eye": "2026-06-23 05:18:15 +0000"
     },
     "done": true
   },
@@ -2150,6 +2180,12 @@
   "undergarden:recipes/undergarden_group/froststeel_block": {
     "criteria": {
       "has_froststeel_ingot": "2026-06-19 14:59:58 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2026-06-23 04:28:57 +0000"
     },
     "done": true
   },
@@ -3218,6 +3254,12 @@
     },
     "done": true
   },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2026-06-23 05:18:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/handle_from_string": {
     "criteria": {
       "has_stick": "2026-06-17 04:42:45 +0000"
@@ -3467,6 +3509,12 @@
   "smallships:recipes/lotr_lairelosse_dhow": {
     "criteria": {
       "in_water": "2026-06-17 04:42:17 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2026-06-23 03:54:02 +0000"
     },
     "done": true
   },
@@ -3935,6 +3983,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/longbow_silver": {
     "criteria": {
       "has_silver_ingot": "2026-06-17 05:22:33 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2026-06-23 04:53:40 +0000"
     },
     "done": true
   },
@@ -4516,6 +4570,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2026-06-23 05:35:37 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2026-06-17 05:33:29 +0000"
@@ -4693,6 +4753,8 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2026-06-17 05:21:16 +0000",
+      "entered_pirate_ship": "2026-06-23 06:19:23 +0000",
+      "entered_sunken_shrine": "2026-06-23 07:50:56 +0000",
       "entered_witch_tower": "2026-06-17 04:42:48 +0000"
     },
     "done": false
@@ -4718,6 +4780,12 @@
   "minecraft:recipes/decorations/prismarine_wall": {
     "criteria": {
       "has_prismarine": "2026-06-21 08:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2026-06-23 04:46:03 +0000"
     },
     "done": true
   },
@@ -4802,6 +4870,12 @@
   "smallships:recipes/lotr_pine_galley": {
     "criteria": {
       "in_water": "2026-06-17 04:42:17 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2026-06-23 06:02:00 +0000"
     },
     "done": true
   },
@@ -5010,6 +5084,7 @@
       "minecraft:creeper": "2026-06-21 16:01:11 +0000",
       "minecraft:slime": "2026-06-21 17:55:56 +0000",
       "minecraft:phantom": "2026-06-21 07:13:39 +0000",
+      "minecraft:zombified_piglin": "2026-06-23 06:01:59 +0000",
       "minecraft:witch": "2026-06-20 03:01:13 +0000",
       "minecraft:wither_skeleton": "2026-06-21 01:56:46 +0000",
       "minecraft:husk": "2026-06-17 04:55:13 +0000",
@@ -5135,6 +5210,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-06-19 15:49:45 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/quanta0": {
+    "criteria": {
+      "enchanted_item": "2026-06-23 04:53:40 +0000"
     },
     "done": true
   },
@@ -5643,6 +5724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2026-06-23 04:46:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2026-06-21 05:58:42 +0000"
@@ -5795,13 +5882,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2026-06-23 04:57:00 +0000",
       "minecraft:forest": "2026-06-17 05:22:17 +0000",
       "minecraft:mountains": "2026-06-18 15:22:13 +0000",
       "minecraft:badlands_plateau": "2026-06-21 02:35:29 +0000",
       "minecraft:taiga": "2026-06-21 07:37:29 +0000",
       "minecraft:giant_tree_taiga": "2026-06-21 07:36:45 +0000",
+      "minecraft:deep_cold_ocean": "2026-06-23 05:48:58 +0000",
       "minecraft:taiga_hills": "2026-06-21 07:40:07 +0000",
       "minecraft:desert": "2026-06-21 02:35:45 +0000",
+      "minecraft:deep_frozen_ocean": "2026-06-23 05:48:34 +0000",
       "minecraft:birch_forest": "2026-06-21 03:16:54 +0000",
       "minecraft:warm_ocean": "2026-06-21 05:00:22 +0000",
       "minecraft:deep_lukewarm_ocean": "2026-06-21 09:08:05 +0000",
@@ -6302,6 +6392,12 @@
     },
     "done": true
   },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2026-06-23 03:32:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_red_dye": "2026-06-21 00:25:24 +0000"
@@ -6359,6 +6455,12 @@
   "smallships:recipes/bop_jacaranda_drakkar": {
     "criteria": {
       "in_water": "2026-06-17 04:42:17 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2026-06-23 03:54:02 +0000"
     },
     "done": true
   },
@@ -6442,6 +6544,7 @@
       "cooked_chicken": "2026-06-21 03:49:55 +0000",
       "enchanted_golden_apple": "2026-06-21 09:10:24 +0000",
       "cod": "2026-06-18 15:19:38 +0000",
+      "cooked_salmon": "2026-06-23 04:19:30 +0000",
       "carrot": "2026-06-20 02:50:50 +0000"
     },
     "done": false
@@ -6602,6 +6705,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2026-06-23 04:46:03 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_fir_brigg": {
     "criteria": {
       "in_water": "2026-06-17 04:42:17 +0000"
@@ -6752,6 +6861,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:ahoy": {
+    "criteria": {
+      "entered_pirate_ship": "2026-06-23 06:19:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2026-06-17 04:43:56 +0000"
@@ -6881,6 +6996,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/spear_silver": {
     "criteria": {
       "has_silver_ingot": "2026-06-17 05:22:33 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/uncommon": {
+    "criteria": {
+      "sword": "2026-06-23 03:54:02 +0000"
     },
     "done": true
   },
@@ -7184,6 +7305,12 @@
     },
     "done": true
   },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2026-06-23 05:35:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2026-06-19 15:15:36 +0000"
@@ -7424,6 +7551,12 @@
     },
     "done": true
   },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2026-06-23 05:36:25 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/terminite_chandelier": {
     "criteria": {
       "has_terminite_ingot": "2026-06-19 14:59:58 +0000"
@@ -7568,6 +7701,12 @@
     },
     "done": true
   },
+  "undergarden:undergarden/forgotten_battleaxe": {
+    "criteria": {
+      "has_forgotten_battleaxe": "2026-06-23 05:18:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/quiver_upgrade_kit_large": {
     "criteria": {
       "has_diamond": "2026-06-17 05:23:15 +0000"
@@ -7607,6 +7746,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2026-06-17 04:42:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2026-06-23 05:48:20 +0000"
     },
     "done": true
   },

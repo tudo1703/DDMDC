@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/blast_cloggrum_item": {
+    "criteria": {
+      "has_OptionalNamedTag[undergarden:cloggrum_items]": "2026-06-23 15:21:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2026-06-17 05:18:25 +0000"
@@ -773,6 +779,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/tools/lead_from_rope": {
+    "criteria": {
+      "has_rope": "2026-06-23 05:54:38 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/warhammer_silver": {
     "criteria": {
       "has_silver_ingot": "2026-06-18 06:18:41 +0000"
@@ -1349,6 +1361,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2026-06-23 04:59:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2026-06-17 06:02:40 +0000"
@@ -1478,6 +1496,12 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/big_glazed_jar": {
     "criteria": {
       "has_item": "2026-06-21 08:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2026-06-23 05:24:40 +0000"
     },
     "done": true
   },
@@ -1709,6 +1733,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2026-06-23 05:15:04 +0000"
+    },
+    "done": true
+  },
   "infernal_origins_extras:advancement_origin_utility": {
     "criteria": {
       "advancement_origin_utility": "2026-06-17 04:16:45 +0000"
@@ -1766,6 +1796,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/katana_gold": {
     "criteria": {
       "has_gold_ingot": "2026-06-17 05:22:10 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2026-06-23 05:49:54 +0000"
     },
     "done": true
   },
@@ -1886,6 +1922,12 @@
   "farmersdelight:recipes/farmersdelight/nether_salad": {
     "criteria": {
       "has_bowl": "2026-06-21 01:38:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2026-06-23 05:06:03 +0000"
     },
     "done": true
   },
@@ -2206,6 +2248,12 @@
   "undergarden:recipes/undergarden_group/froststeel_block": {
     "criteria": {
       "has_froststeel_ingot": "2026-06-18 06:18:41 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2026-06-23 15:18:30 +0000"
     },
     "done": true
   },
@@ -3584,6 +3632,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2026-06-23 04:46:21 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/iron_gold_chest": {
     "criteria": {
       "has_gold_ingot": "2026-06-17 05:22:10 +0000"
@@ -4058,6 +4112,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/45ench": {
+    "criteria": {
+      "enchanted_item": "2026-06-23 05:45:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2026-06-21 01:45:14 +0000"
@@ -4079,6 +4139,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/longbow_silver": {
     "criteria": {
       "has_silver_ingot": "2026-06-18 06:18:41 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2026-06-23 05:32:19 +0000"
     },
     "done": true
   },
@@ -4325,6 +4391,12 @@
   "undergarden:recipes/undergarden_group/utheric_chestplate": {
     "criteria": {
       "has_utherium_ingot": "2026-06-20 02:03:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "axe": "2026-06-23 04:42:21 +0000"
     },
     "done": true
   },
@@ -4591,6 +4663,12 @@
       "diamond_leggings": "2026-06-17 05:49:14 +0000"
     },
     "done": true
+  },
+  "undergarden:undergarden/slay_all_rotspawn": {
+    "criteria": {
+      "slay_rotwalker": "2026-06-23 15:13:28 +0000"
+    },
+    "done": false
   },
   "smallships:recipes/bop_palm_rowboat": {
     "criteria": {
@@ -4876,7 +4954,8 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
-      "entered_pirate_ship": "2026-06-21 15:32:59 +0000"
+      "entered_pirate_ship": "2026-06-21 15:32:59 +0000",
+      "entered_witch_tower": "2026-06-23 04:59:13 +0000"
     },
     "done": false
   },
@@ -4997,6 +5076,12 @@
   "smallships:recipes/lotr_pine_galley": {
     "criteria": {
       "in_water": "2026-06-17 05:21:23 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2026-06-23 04:46:21 +0000"
     },
     "done": true
   },
@@ -5332,6 +5417,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/quanta0": {
+    "criteria": {
+      "enchanted_item": "2026-06-23 04:43:58 +0000"
+    },
+    "done": true
+  },
   "twist:vomitonsweater": {
     "criteria": {
       "vomitonsweater": "2026-06-21 09:40:58 +0000"
@@ -5533,6 +5624,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/lance_copper": {
     "criteria": {
       "has_copper_ingot": "2026-06-18 06:18:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2026-06-23 05:41:34 +0000"
     },
     "done": true
   },
@@ -6026,8 +6123,10 @@
       "minecraft:taiga": "2026-06-21 07:31:04 +0000",
       "minecraft:desert_hills": "2026-06-18 06:51:59 +0000",
       "minecraft:giant_tree_taiga": "2026-06-17 06:46:07 +0000",
+      "minecraft:deep_cold_ocean": "2026-06-23 04:55:01 +0000",
       "minecraft:taiga_hills": "2026-06-21 07:31:06 +0000",
       "minecraft:desert": "2026-06-17 06:16:57 +0000",
+      "minecraft:deep_frozen_ocean": "2026-06-23 05:49:53 +0000",
       "minecraft:jungle": "2026-06-17 06:43:29 +0000",
       "minecraft:birch_forest": "2026-06-21 15:46:05 +0000",
       "minecraft:warm_ocean": "2026-06-21 01:32:24 +0000",
@@ -6039,6 +6138,7 @@
       "minecraft:lukewarm_ocean": "2026-06-17 06:51:45 +0000",
       "minecraft:snowy_taiga": "2026-06-17 05:55:26 +0000",
       "minecraft:birch_forest_hills": "2026-06-21 15:54:22 +0000",
+      "minecraft:wooded_mountains": "2026-06-23 04:57:15 +0000",
       "minecraft:stone_shore": "2026-06-20 02:11:24 +0000",
       "minecraft:giant_tree_taiga_hills": "2026-06-21 07:30:36 +0000",
       "minecraft:wooded_badlands_plateau": "2026-06-21 01:49:08 +0000",
@@ -6172,6 +6272,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2026-06-20 02:11:56 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2026-06-23 05:36:44 +0000"
     },
     "done": true
   },
@@ -6577,6 +6683,12 @@
     },
     "done": true
   },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2026-06-23 03:28:55 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_magic_war_galley": {
     "criteria": {
       "in_water": "2026-06-17 05:21:23 +0000"
@@ -6634,6 +6746,18 @@
   "smallships:recipes/bop_jacaranda_drakkar": {
     "criteria": {
       "in_water": "2026-06-17 05:21:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/safety_net": {
+    "criteria": {
+      "has_rope": "2026-06-23 05:54:38 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2026-06-23 04:46:21 +0000"
     },
     "done": true
   },
@@ -6869,6 +6993,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/smelt_cloggrum_item": {
+    "criteria": {
+      "has_OptionalNamedTag[undergarden:cloggrum_items]": "2026-06-23 15:21:42 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/throwing_knife_iron": {
     "criteria": {
       "has_iron_ingot": "2026-06-17 05:35:23 +0000"
@@ -7037,6 +7167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2026-06-23 05:24:40 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:ahoy": {
     "criteria": {
       "entered_pirate_ship": "2026-06-21 15:32:59 +0000"
@@ -7178,6 +7314,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/spear_silver": {
     "criteria": {
       "has_silver_ingot": "2026-06-18 06:18:41 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/uncommon": {
+    "criteria": {
+      "sword": "2026-06-23 04:47:02 +0000"
     },
     "done": true
   },
@@ -7771,6 +7913,12 @@
     },
     "done": true
   },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2026-06-23 05:55:02 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/terminite_chandelier": {
     "criteria": {
       "has_terminite_ingot": "2026-06-18 06:18:41 +0000"
@@ -8077,6 +8225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2026-06-23 05:54:38 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/upgrades/diamond_to_crystal_chest_upgrade": {
     "criteria": {
       "has_glass": "2026-06-18 03:20:29 +0000"
@@ -8266,6 +8420,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2026-06-17 06:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2026-06-23 05:24:40 +0000"
     },
     "done": true
   },

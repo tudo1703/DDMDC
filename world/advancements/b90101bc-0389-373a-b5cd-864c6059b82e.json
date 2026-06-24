@@ -827,6 +827,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/soul_brazier": {
+    "criteria": {
+      "has_item": "2026-06-23 05:08:49 +0000"
+    },
+    "done": true
+  },
   "relics:obtain/magma_walker": {
     "criteria": {
       "obtain_relic": "2026-06-20 06:14:07 +0000"
@@ -1240,6 +1246,12 @@
       "in_village_oak": "2026-06-22 05:10:49 +0000"
     },
     "done": false
+  },
+  "relics:obtain/ghost_skin_talisman": {
+    "criteria": {
+      "obtain_relic": "2026-06-23 05:33:38 +0000"
+    },
+    "done": true
   },
   "smallships:recipes/lotr_aspen_brigg": {
     "criteria": {
@@ -1697,6 +1709,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2026-06-23 05:18:39 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_charred_rowboat": {
     "criteria": {
       "in_water": "2026-06-19 15:58:48 +0000"
@@ -1754,6 +1772,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/katana_gold": {
     "criteria": {
       "has_gold_ingot": "2026-06-20 05:24:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2026-06-23 05:51:50 +0000"
     },
     "done": true
   },
@@ -2140,6 +2164,12 @@
   "smallships:recipes/lotr_apple_galley": {
     "criteria": {
       "in_water": "2026-06-19 15:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_white_flower": "2026-06-23 05:41:26 +0000"
     },
     "done": true
   },
@@ -3381,6 +3411,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/spruce_pantry": {
+    "criteria": {
+      "has_spruce_trapdoor": "2026-06-23 05:57:57 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/cloggrum_shovel": {
     "criteria": {
       "has_cloggrum_ingot": "2026-06-20 05:59:04 +0000"
@@ -3552,6 +3588,12 @@
   "smallships:recipes/lotr_lairelosse_dhow": {
     "criteria": {
       "in_water": "2026-06-19 15:58:48 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2026-06-23 04:54:10 +0000"
     },
     "done": true
   },
@@ -4602,7 +4644,8 @@
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_zombie_dungeon": "2026-06-21 05:56:06 +0000",
-      "in_better_monster_room": "2026-06-21 06:41:36 +0000"
+      "in_better_monster_room": "2026-06-21 06:41:36 +0000",
+      "in_better_spider_dungeon": "2026-06-23 05:33:35 +0000"
     },
     "done": false
   },
@@ -4681,6 +4724,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2026-06-20 05:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2026-06-23 05:08:50 +0000"
     },
     "done": true
   },
@@ -5272,6 +5321,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-06-21 06:51:57 +0000"
+    },
+    "done": true
+  },
+  "twist:vomitonsweater": {
+    "criteria": {
+      "vomitonsweater": "2026-06-23 05:08:54 +0000"
     },
     "done": true
   },
@@ -6020,6 +6075,7 @@
       "minecraft:deep_cold_ocean": "2026-06-19 16:02:51 +0000",
       "minecraft:taiga_hills": "2026-06-21 07:33:22 +0000",
       "minecraft:desert": "2026-06-21 02:35:08 +0000",
+      "minecraft:deep_frozen_ocean": "2026-06-23 05:43:17 +0000",
       "minecraft:birch_forest": "2026-06-21 03:13:53 +0000",
       "minecraft:warm_ocean": "2026-06-21 05:21:58 +0000",
       "minecraft:deep_lukewarm_ocean": "2026-06-21 04:04:04 +0000",
@@ -6028,6 +6084,8 @@
       "minecraft:dark_forest": "2026-06-21 01:47:09 +0000",
       "minecraft:river": "2026-06-19 15:56:37 +0000",
       "minecraft:lukewarm_ocean": "2026-06-20 05:23:08 +0000",
+      "minecraft:birch_forest_hills": "2026-06-23 05:23:54 +0000",
+      "minecraft:wooded_mountains": "2026-06-23 05:21:56 +0000",
       "minecraft:wooded_hills": "2026-06-21 04:45:53 +0000",
       "minecraft:stone_shore": "2026-06-21 05:19:36 +0000",
       "minecraft:giant_tree_taiga_hills": "2026-06-21 07:33:30 +0000",
@@ -6160,6 +6218,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2026-06-21 06:17:02 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2026-06-23 05:38:45 +0000"
     },
     "done": true
   },
@@ -6340,6 +6404,12 @@
   "betterendforge:recipes/betterendforge/infusion_pedestal": {
     "criteria": {
       "has_ender_pearl": "2026-06-20 05:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2026-06-23 05:08:49 +0000"
     },
     "done": true
   },
@@ -6571,6 +6641,12 @@
     },
     "done": true
   },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2026-06-23 04:52:17 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_magic_war_galley": {
     "criteria": {
       "in_water": "2026-06-19 15:58:48 +0000"
@@ -6634,6 +6710,12 @@
   "farmersdelight:recipes/farmersdelight/safety_net": {
     "criteria": {
       "has_rope": "2026-06-21 08:59:25 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2026-06-23 04:54:10 +0000"
     },
     "done": true
   },
@@ -7053,6 +7135,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2026-06-23 05:08:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2026-06-22 16:46:12 +0000"
@@ -7104,6 +7192,12 @@
   "smallships:recipes/jungle_cog": {
     "criteria": {
       "in_water": "2026-06-19 15:58:48 +0000"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/farmersrespite/nether_wart_sourdough": {
+    "criteria": {
+      "has_wart": "2026-06-23 05:08:50 +0000"
     },
     "done": true
   },
@@ -7200,6 +7294,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/spear_silver": {
     "criteria": {
       "has_silver_ingot": "2026-06-20 05:59:04 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/uncommon": {
+    "criteria": {
+      "sword": "2026-06-23 04:54:10 +0000"
     },
     "done": true
   },
@@ -7491,6 +7591,12 @@
     },
     "done": true
   },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2026-06-23 05:33:35 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/mossy_stone_bridge_pier": {
     "criteria": {
       "has_planks": "2026-06-20 05:47:46 +0000"
@@ -7689,6 +7795,12 @@
     },
     "done": true
   },
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "spawner": "2026-06-23 05:13:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2026-06-21 03:40:09 +0000"
@@ -7776,6 +7888,12 @@
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2026-06-20 06:01:13 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2026-06-23 08:18:14 +0000"
     },
     "done": true
   },

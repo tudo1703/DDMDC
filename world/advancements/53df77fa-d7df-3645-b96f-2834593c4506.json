@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2026-06-23 05:08:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2026-06-17 06:29:44 +0000"
@@ -395,6 +401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2026-06-23 04:49:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2026-06-18 06:49:25 +0000"
@@ -587,6 +599,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2026-06-23 04:48:30 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/dagger_wood": {
     "criteria": {
       "has_wood": "2026-06-17 06:20:30 +0000"
@@ -614,6 +632,12 @@
   "smallships:recipes/lotr_pine_galley": {
     "criteria": {
       "in_water": "2026-06-17 06:15:34 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2026-06-23 04:49:28 +0000"
     },
     "done": true
   },
@@ -863,6 +887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2026-06-23 04:47:59 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_cypress_galley": {
     "criteria": {
       "in_water": "2026-06-17 06:15:34 +0000"
@@ -878,6 +908,12 @@
   "smallships:recipes/lotr_cherry_brigg": {
     "criteria": {
       "in_water": "2026-06-17 06:15:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_boots": "2026-06-23 04:48:30 +0000"
     },
     "done": true
   },
@@ -1590,6 +1626,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_boots": "2026-06-23 04:48:30 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2026-06-17 06:06:30 +0000"
@@ -2032,6 +2074,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2026-06-23 05:08:06 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_lairelosse_drakkar": {
     "criteria": {
       "in_water": "2026-06-17 06:15:34 +0000"
@@ -2146,6 +2194,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2026-06-23 05:08:06 +0000"
+    },
+    "done": true
+  },
   "packedup:recipes/packedup/basic_from_chest": {
     "criteria": {
       "recipe_condition": "2026-06-17 14:45:10 +0000"
@@ -2191,6 +2245,12 @@
   "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
     "criteria": {
       "has_iron_ingot": "2026-06-17 06:29:40 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2026-06-23 04:10:15 +0000"
     },
     "done": true
   },
@@ -2269,6 +2329,18 @@
   "smallships:recipes/bop_jacaranda_drakkar": {
     "criteria": {
       "in_water": "2026-06-17 06:15:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2026-06-23 04:47:59 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2026-06-23 04:49:09 +0000"
     },
     "done": true
   },
@@ -2511,6 +2583,12 @@
   "smallships:recipes/bop_cherry_dhow": {
     "criteria": {
       "in_water": "2026-06-17 06:15:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2026-06-23 05:08:06 +0000"
     },
     "done": true
   },
@@ -2874,6 +2952,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/uncommon": {
+    "criteria": {
+      "sword": "2026-06-23 04:49:09 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/dark_oak_galley": {
     "criteria": {
       "in_water": "2026-06-17 06:15:34 +0000"
@@ -3012,6 +3096,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2026-06-23 05:08:06 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_fir_rowboat": {
     "criteria": {
       "in_water": "2026-06-17 06:15:34 +0000"
@@ -3075,6 +3165,12 @@
   "smallships:recipes/oak_cog": {
     "criteria": {
       "in_water": "2026-06-17 06:15:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2026-06-23 04:49:09 +0000"
     },
     "done": true
   },
@@ -3372,6 +3468,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2026-06-23 04:49:09 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_fir_cog": {
     "criteria": {
       "in_water": "2026-06-17 06:15:34 +0000"
@@ -3381,6 +3483,12 @@
   "ironchest:recipes/ironchest/chests/iron_gold_chest": {
     "criteria": {
       "has_gold_ingot": "2026-06-18 06:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2026-06-23 04:47:59 +0000"
     },
     "done": true
   },
