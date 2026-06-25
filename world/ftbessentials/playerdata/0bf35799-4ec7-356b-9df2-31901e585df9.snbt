@@ -3,21 +3,21 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "minecraft:overworld", x: 700, y: 127, z: -322, time: 1782230647567L }
+	last_seen: { dim: "minecraft:overworld", x: 727, y: 70, z: -328, time: 1782356982479L }
 	recording: 0
 	teleport_history: [
-		{ dim: "minecraft:overworld", x: 879, y: 16, z: -384, time: 1782190029307L }
-		{ dim: "minecraft:overworld", x: -253, y: 66, z: -251, time: 1782191915545L }
-		{ dim: "minecraft:overworld", x: 689, y: 126, z: -315, time: 1782192360798L }
-		{ dim: "minecraft:overworld", x: -762, y: 103, z: -1312, time: 1782193432494L }
-		{ dim: "minecraft:overworld", x: -980, y: 48, z: -2737, time: 1782193839714L }
-		{ dim: "minecraft:overworld", x: 699, y: 126, z: -303, time: 1782194303057L }
-		{ dim: "minecraft:overworld", x: -595, y: 18, z: -3472, time: 1782197603285L }
-		{ dim: "minecraft:overworld", x: 674, y: 59, z: -360, time: 1782200067943L }
-		{ dim: "minecraft:overworld", x: 826, y: 40, z: -1418, time: 1782202107113L }
-		{ dim: "minecraft:overworld", x: -919, y: 33, z: 376, time: 1782228048233L }
+		{ dim: "minecraft:overworld", x: 716, y: 65, z: -291, time: 1782324634063L }
+		{ dim: "minecraft:overworld", x: -2571, y: 71, z: -1424, time: 1782324685010L }
+		{ dim: "minecraft:overworld", x: 1358, y: 63, z: 1252, time: 1782324701770L }
+		{ dim: "minecraft:overworld", x: 732, y: 61, z: -289, time: 1782324728567L }
+		{ dim: "minecraft:overworld", x: 731, y: 61, z: -291, time: 1782324747665L }
+		{ dim: "minecraft:overworld", x: 727, y: 70, z: -327, time: 1782357927812L }
+		{ dim: "minecraft:overworld", x: 1166, y: 45, z: -508, time: 1782359657276L }
+		{ dim: "minecraft:overworld", x: 723, y: 55, z: -305, time: 1782360044023L }
+		{ dim: "minecraft:overworld", x: 696, y: 55, z: -300, time: 1782360117860L }
+		{ dim: "minecraft:overworld", x: 866, y: 9, z: -262, time: 1782361419957L }
 	]
 	homes: {
-		home: { dim: "minecraft:overworld", x: 691, y: 126, z: -321, time: 1782143085760L }
+		home: { dim: "minecraft:overworld", x: 688, y: 126, z: -323, time: 1782324717665L }
 	}
 }

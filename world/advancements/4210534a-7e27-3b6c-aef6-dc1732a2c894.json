@@ -1019,6 +1019,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2026-06-25 03:29:47 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_charred_galley": {
     "criteria": {
       "in_water": "2026-06-17 05:21:23 +0000"
@@ -1574,6 +1580,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/tomahawk_iron": {
     "criteria": {
       "has_iron_ingot": "2026-06-17 05:35:23 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2026-06-25 03:53:11 +0000"
     },
     "done": true
   },
@@ -2200,6 +2212,12 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/big_brown_glazed_jar": {
     "criteria": {
       "has_item": "2026-06-21 08:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2026-06-25 03:29:47 +0000"
     },
     "done": true
   },
@@ -2852,6 +2870,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2026-06-25 03:29:47 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_netherite_smithing": {
     "criteria": {
       "has_netherite_ingot": "2026-06-17 06:27:58 +0000"
@@ -3479,6 +3503,12 @@
   "betterendforge:recipes/betterendforge/terminite_nugget_from_blasting": {
     "criteria": {
       "has_terminite_boots": "2026-06-21 09:41:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/spruce_pantry": {
+    "criteria": {
+      "has_spruce_trapdoor": "2026-06-25 04:00:44 +0000"
     },
     "done": true
   },
@@ -5300,6 +5330,7 @@
       "minecraft:spider": "2026-06-17 06:36:21 +0000",
       "minecraft:piglin_brute": "2026-06-18 02:41:58 +0000",
       "minecraft:creeper": "2026-06-21 15:29:59 +0000",
+      "minecraft:slime": "2026-06-25 03:11:48 +0000",
       "minecraft:phantom": "2026-06-21 07:09:12 +0000",
       "minecraft:witch": "2026-06-18 03:12:37 +0000",
       "minecraft:wither_skeleton": "2026-06-18 06:45:47 +0000",
@@ -6003,6 +6034,12 @@
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2026-06-20 02:38:10 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/spider_necklace": {
+    "criteria": {
+      "obtain_relic": "2026-06-25 04:04:20 +0000"
     },
     "done": true
   },

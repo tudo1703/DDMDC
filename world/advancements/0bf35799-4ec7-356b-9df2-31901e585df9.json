@@ -2077,13 +2077,21 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2026-06-21 09:43:22 +0000"
+      "minecraft:crimson_forest": "2026-06-21 09:43:22 +0000",
+      "minecraft:nether_wastes": "2026-06-24 06:58:25 +0000",
+      "minecraft:warped_forest": "2026-06-24 07:07:42 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2026-06-19 14:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2026-06-24 05:02:49 +0000"
     },
     "done": true
   },
@@ -3860,6 +3868,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2026-06-24 03:33:19 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed_by": "2026-06-18 15:34:57 +0000"
@@ -3959,6 +3973,12 @@
   "smallships:recipes/lotr_charred_drakkar": {
     "criteria": {
       "in_water": "2026-06-17 04:42:17 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/45ench": {
+    "criteria": {
+      "enchanted_item": "2026-06-24 17:47:07 +0000"
     },
     "done": true
   },
@@ -4618,6 +4638,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2026-06-24 03:33:19 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_iron": {
     "criteria": {
       "has_iron_ingot": "2026-06-17 04:48:29 +0000"
@@ -4843,6 +4869,12 @@
     },
     "done": true
   },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2026-06-24 06:46:29 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_dead_dhow": {
     "criteria": {
       "in_water": "2026-06-17 04:42:17 +0000"
@@ -4900,6 +4932,12 @@
   "smallships:recipes/lotr_cedar_galley": {
     "criteria": {
       "in_water": "2026-06-17 04:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2026-06-24 03:33:19 +0000"
     },
     "done": true
   },
@@ -5216,6 +5254,12 @@
   "apotheosis:enchanting/quanta0": {
     "criteria": {
       "enchanted_item": "2026-06-23 04:53:40 +0000"
+    },
+    "done": true
+  },
+  "twist:vomitonsweater": {
+    "criteria": {
+      "vomitonsweater": "2026-06-24 06:59:12 +0000"
     },
     "done": true
   },
@@ -7866,6 +7910,12 @@
   "smallships:recipes/bop_umbran_rowboat": {
     "criteria": {
       "in_water": "2026-06-17 04:42:17 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/common": {
+    "criteria": {
+      "sword": "2026-06-24 04:19:41 +0000"
     },
     "done": true
   },
