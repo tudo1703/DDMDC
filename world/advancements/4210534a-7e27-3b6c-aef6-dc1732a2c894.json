@@ -827,6 +827,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2026-06-25 14:16:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2026-06-20 02:39:00 +0000"
@@ -866,6 +872,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/rapier_stone": {
     "criteria": {
       "has_cobblestone": "2026-06-17 05:18:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/soul_brazier": {
+    "criteria": {
+      "has_item": "2026-06-25 14:22:49 +0000"
     },
     "done": true
   },
@@ -1073,6 +1085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2026-06-25 14:26:15 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_jacaranda_war_galley": {
     "criteria": {
       "in_water": "2026-06-17 05:21:23 +0000"
@@ -1223,6 +1241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-25 14:21:21 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/acacia_log_bridge_middle": {
     "criteria": {
       "has_planks": "2026-06-17 06:58:55 +0000"
@@ -1343,6 +1367,12 @@
     },
     "done": true
   },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2026-06-25 14:21:17 +0000"
+    },
+    "done": true
+  },
   "easypaxellite:diamond_paxel": {
     "criteria": {
       "has_tools": "2026-06-17 05:42:39 +0000"
@@ -1442,6 +1472,12 @@
   "farmersdelight:recipes/farmersdelight/fried_egg": {
     "criteria": {
       "fried_egg": "2026-06-20 01:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2026-06-25 14:05:57 +0000"
     },
     "done": true
   },
@@ -1769,6 +1805,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile_chestplate": {
+    "criteria": {
+      "rat_upgrade_basic": "2026-06-25 14:19:23 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_maple_drakkar": {
     "criteria": {
       "in_water": "2026-06-17 05:21:23 +0000"
@@ -2051,6 +2093,12 @@
     },
     "done": true
   },
+  "constructionwand:recipes/misc/core_destruction": {
+    "criteria": {
+      "has_item": "2026-06-25 13:37:40 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_netherite_smithing": {
     "criteria": {
       "has_netherite_ingot": "2026-06-17 06:27:58 +0000"
@@ -2157,6 +2205,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2026-06-20 02:17:37 +0000",
       "minecraft:nether_wastes": "2026-06-18 02:37:37 +0000",
+      "minecraft:soul_sand_valley": "2026-06-25 14:10:51 +0000",
       "minecraft:warped_forest": "2026-06-18 02:38:03 +0000"
     },
     "done": false
@@ -2176,6 +2225,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_horse_armor": "2026-06-17 05:58:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/spiked_turtle_shell": {
+    "criteria": {
+      "rat_upgrade_basic": "2026-06-25 14:43:45 +0000"
     },
     "done": true
   },
@@ -2242,6 +2297,12 @@
   "smallships:recipes/lotr_apple_galley": {
     "criteria": {
       "in_water": "2026-06-17 05:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-25 14:21:21 +0000"
     },
     "done": true
   },
@@ -2386,6 +2447,12 @@
   "mcwbridges:recipes/rope_spruce_bridge": {
     "criteria": {
       "has_planks": "2026-06-17 05:18:03 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/iron_wand": {
+    "criteria": {
+      "has_item": "2026-06-25 13:33:58 +0000"
     },
     "done": true
   },
@@ -2761,6 +2828,12 @@
     },
     "done": true
   },
+  "constructionwand:recipes/tools/stone_wand": {
+    "criteria": {
+      "has_item": "2026-06-25 13:43:52 +0000"
+    },
+    "done": true
+  },
   "enchantinginfuser:recipes/decorations/advanced_enchanting_infuser": {
     "criteria": {
       "has_netherite_ingot": "2026-06-17 05:17:59 +0000",
@@ -3056,6 +3129,12 @@
     },
     "done": true
   },
+  "constructionwand:recipes/tools/diamond_wand": {
+    "criteria": {
+      "has_item": "2026-06-25 13:37:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2026-06-17 05:22:10 +0000"
@@ -3149,6 +3228,12 @@
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2026-06-18 03:20:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-25 14:21:21 +0000"
     },
     "done": true
   },
@@ -3539,6 +3624,12 @@
   "smallships:recipes/bop_umbran_war_galley": {
     "criteria": {
       "in_water": "2026-06-17 05:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-06-25 14:26:15 +0000"
     },
     "done": true
   },
@@ -3968,6 +4059,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-25 14:21:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2026-06-17 06:36:30 +0000"
@@ -4136,6 +4233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-25 14:21:21 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_charred_drakkar": {
     "criteria": {
       "in_water": "2026-06-17 05:21:23 +0000"
@@ -4195,6 +4298,14 @@
       "has_froststeel_ingot": "2026-06-18 06:18:41 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_crimson": "2026-06-25 14:23:31 +0000",
+      "in_outpost_nether_brick": "2026-06-25 14:11:41 +0000",
+      "in_outpost_warped": "2026-06-25 14:25:58 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/spartanweaponry.basic/longbow_wood": {
     "criteria": {
@@ -4268,6 +4379,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-25 14:21:21 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/spruce_planks": {
     "criteria": {
       "has_planks": "2026-06-17 05:18:03 +0000"
@@ -4331,6 +4448,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_stone": {
     "criteria": {
       "has_cobblestone": "2026-06-17 05:18:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2026-06-25 14:26:15 +0000"
     },
     "done": true
   },
@@ -4544,6 +4667,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-25 14:21:21 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/battleaxe_diamond": {
     "criteria": {
       "has_diamond": "2026-06-17 05:42:39 +0000"
@@ -4613,6 +4742,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2026-06-17 06:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2026-06-25 14:26:15 +0000"
     },
     "done": true
   },
@@ -4790,6 +4925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-25 14:21:21 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_spider_dungeon": "2026-06-18 07:15:30 +0000"
@@ -4949,6 +5090,12 @@
   "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
     "criteria": {
       "has_log": "2026-06-20 01:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-25 14:21:21 +0000"
     },
     "done": true
   },
@@ -5322,6 +5469,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2026-06-17 07:04:35 +0000",
+      "minecraft:blaze": "2026-06-25 14:27:28 +0000",
       "minecraft:skeleton": "2026-06-17 06:40:53 +0000",
       "minecraft:hoglin": "2026-06-21 01:50:26 +0000",
       "minecraft:guardian": "2026-06-17 06:29:14 +0000",
@@ -5475,6 +5623,18 @@
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2026-06-21 08:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-25 14:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-06-25 14:26:15 +0000"
     },
     "done": true
   },
@@ -5682,9 +5842,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-25 14:21:21 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_lairelosse_galley": {
     "criteria": {
       "in_water": "2026-06-17 05:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-06-25 14:26:15 +0000"
     },
     "done": true
   },
@@ -6049,6 +6221,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2026-06-25 14:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-06-25 14:26:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_boots": "2026-06-17 05:22:10 +0000"
@@ -6318,6 +6502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-25 14:21:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2026-06-17 05:18:25 +0000"
@@ -6495,6 +6685,12 @@
   "betterendforge:recipes/betterendforge/infusion_pedestal": {
     "criteria": {
       "has_obsidian": "2026-06-17 05:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2026-06-25 14:22:49 +0000"
     },
     "done": true
   },
@@ -6699,6 +6895,12 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2026-06-20 02:18:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2026-06-25 14:26:15 +0000"
     },
     "done": true
   },
@@ -7824,9 +8026,21 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2026-06-25 14:26:18 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/iron_bridge_pier": {
     "criteria": {
       "has_planks": "2026-06-17 05:35:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-25 14:21:21 +0000"
     },
     "done": true
   },
@@ -8424,6 +8638,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2026-06-25 14:26:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-06-18 02:39:12 +0000"
@@ -8535,6 +8755,12 @@
   "undergarden:recipes/undergarden_group/forgotten_sword_smithing": {
     "criteria": {
       "has_undergarden:forgotten_ingot": "2026-06-20 02:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-25 14:21:21 +0000"
     },
     "done": true
   },
@@ -8733,6 +8959,12 @@
   "smallships:recipes/lotr_lebethron_brigg": {
     "criteria": {
       "in_water": "2026-06-17 05:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-06-25 14:21:21 +0000"
     },
     "done": true
   },
