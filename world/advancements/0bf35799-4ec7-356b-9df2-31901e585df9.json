@@ -743,6 +743,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2026-06-26 05:09:44 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/terminite_leggings": {
     "criteria": {
       "has_terminite_ingot": "2026-06-19 14:59:58 +0000"
@@ -938,6 +944,12 @@
   "smallships:recipes/lotr_cypress_galley": {
     "criteria": {
       "in_water": "2026-06-17 04:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2026-06-26 06:18:19 +0000"
     },
     "done": true
   },
@@ -1142,6 +1154,12 @@
   "smallships:recipes/bop_magic_galley": {
     "criteria": {
       "in_water": "2026-06-17 04:42:17 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_angel": {
+    "criteria": {
+      "has_item": "2026-06-26 05:11:33 +0000"
     },
     "done": true
   },
@@ -1967,6 +1985,12 @@
     },
     "done": true
   },
+  "constructionwand:recipes/misc/core_destruction": {
+    "criteria": {
+      "has_item": "2026-06-26 03:19:46 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_netherite_smithing": {
     "criteria": {
       "has_netherite_ingot": "2026-06-18 14:48:41 +0000"
@@ -2153,6 +2177,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/halberd_copper": {
     "criteria": {
       "has_copper_ingot": "2026-06-18 14:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2026-06-26 06:18:19 +0000"
     },
     "done": true
   },
@@ -2793,6 +2823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2026-06-26 06:18:19 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_netherite_smithing": {
     "criteria": {
       "has_netherite_ingot": "2026-06-18 14:48:41 +0000"
@@ -3407,6 +3443,12 @@
     },
     "done": true
   },
+  "endrem:main/end_crystal_eye": {
+    "criteria": {
+      "end_crystal_eye": "2026-06-26 13:45:31 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/cloggrum_shovel": {
     "criteria": {
       "has_cloggrum_ingot": "2026-06-18 14:48:43 +0000"
@@ -3884,6 +3926,12 @@
   "undergarden:recipes/undergarden_group/cloggrum_nugget_to_ingot": {
     "criteria": {
       "has_cloggrum_nugget": "2026-06-21 04:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2026-06-26 05:11:30 +0000"
     },
     "done": true
   },
@@ -4847,6 +4895,7 @@
     "criteria": {
       "entered_tower_of_the_undead": "2026-06-17 05:21:16 +0000",
       "entered_pirate_ship": "2026-06-23 06:19:23 +0000",
+      "entered_fishing_ship": "2026-06-26 05:12:55 +0000",
       "entered_sunken_shrine": "2026-06-23 07:50:56 +0000",
       "entered_witch_tower": "2026-06-17 04:42:48 +0000"
     },
@@ -4855,6 +4904,12 @@
   "smallships:recipes/lotr_apple_dhow": {
     "criteria": {
       "in_water": "2026-06-17 04:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2026-06-26 16:12:20 +0000"
     },
     "done": true
   },
@@ -5182,6 +5237,8 @@
       "minecraft:pillager": "2026-06-17 05:38:09 +0000",
       "minecraft:blaze": "2026-06-25 14:40:02 +0000",
       "minecraft:skeleton": "2026-06-17 05:09:36 +0000",
+      "minecraft:elder_guardian": "2026-06-26 16:12:20 +0000",
+      "minecraft:ghast": "2026-06-26 05:53:47 +0000",
       "minecraft:hoglin": "2026-06-21 01:54:35 +0000",
       "minecraft:guardian": "2026-06-19 14:02:14 +0000",
       "minecraft:vindicator": "2026-06-17 05:53:05 +0000",
@@ -5198,6 +5255,7 @@
       "minecraft:piglin": "2026-06-21 07:14:39 +0000",
       "minecraft:stray": "2026-06-17 05:09:36 +0000",
       "minecraft:silverfish": "2026-06-17 14:33:29 +0000",
+      "minecraft:enderman": "2026-06-26 02:53:40 +0000",
       "minecraft:endermite": "2026-06-20 05:46:53 +0000",
       "minecraft:zombie": "2026-06-17 04:55:13 +0000",
       "minecraft:drowned": "2026-06-19 14:31:28 +0000",
@@ -6258,6 +6316,12 @@
     },
     "done": true
   },
+  "constructionwand:recipes/tools/infinity_wand": {
+    "criteria": {
+      "has_item": "2026-06-26 15:36:27 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/iron_silver_chest": {
     "criteria": {
       "has_item": "2026-06-17 05:22:33 +0000"
@@ -6627,6 +6691,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/katana_stone": {
     "criteria": {
       "has_cobblestone": "2026-06-17 04:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2026-06-26 03:43:57 +0000"
     },
     "done": true
   },
@@ -7003,6 +7073,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2026-06-26 15:36:27 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/pike_stone": {
     "criteria": {
       "has_cobblestone": "2026-06-17 04:46:48 +0000"
@@ -7342,6 +7418,12 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/birch_post": {
     "criteria": {
       "has_item": "2026-06-19 15:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2026-06-26 05:53:47 +0000"
     },
     "done": true
   },
@@ -8434,6 +8516,12 @@
   "smallships:recipes/bop_hellbark_galley": {
     "criteria": {
       "in_water": "2026-06-17 04:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2026-06-26 15:56:49 +0000"
     },
     "done": true
   },

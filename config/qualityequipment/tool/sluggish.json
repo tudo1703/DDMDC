@@ -1,0 +1,1 @@
+{"name": "sluggish", "weight": 120, "attributes": "minecraft:generic.attack_speed;minecraft:generic.movement_speed", "amounts": "-0.05;-0.1", "operationId": "2;2"}

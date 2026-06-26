@@ -1,0 +1,1 @@
+{"name": "demonic", "weight": 20, "attributes": "minecraft:generic.attack_damage;minecraft:generic.attack_speed;minecraft:generic.armor;minecraft:generic.knockback_resistance;minecraft:generic.max_health", "amounts": "0.4;0.25;0.12;0.08;0.12", "operationId": "2;2;2;2;2"}

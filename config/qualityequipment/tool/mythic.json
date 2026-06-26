@@ -1,0 +1,1 @@
+{"name": "mythic", "weight": 25, "attributes": "minecraft:generic.attack_damage;minecraft:generic.attack_speed;minecraft:generic.movement_speed;minecraft:generic.max_health", "amounts": "0.25;0.15;0.08;0.1", "operationId": "2;2;2;2"}
