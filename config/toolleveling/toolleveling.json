@@ -8,7 +8,7 @@
   "defaultItemWorth": 0,
   "allowLevelingOfUselessEnchantments": false,
   "allowLevelingOfBreakingEnchanments": false,
-  "globalEnchantmentCap": 10000,
+  "globalEnchantmentCap": 100000,
   "enchantmentWhitelist": [],
   "enchantmentBlacklist": [
     "minecraft:mending",
@@ -19,8 +19,7 @@
     "minecraft:flame",
     "minecraft:infinity",
     "minecraft:multishot",
-    "minecraft:silk_touch",
-    "ensorcellation:frost_aspect"
+    "minecraft:silk_touch"
   ],
   "enchantmentCaps": {
     "minecraft:fortune": 10000,
